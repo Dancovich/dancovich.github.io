@@ -18,7 +18,7 @@ export function adicionarLista() {
     'jogador': 'Eric',
     'dados': [
       {
-        'titulo': 'Bioforge',
+        'titulo': 'Teste',
         'descricao': 'PC DOS'
       },
       {

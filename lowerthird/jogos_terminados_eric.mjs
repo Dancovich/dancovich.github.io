@@ -18,61 +18,61 @@ export function adicionarLista() {
     'jogador': 'Eric',
     'dados': [
       {
-      'titulo': 'Adventure',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'H.E.R.O.',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'Teddy Apple',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'Pitfall',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'Superman',
-      'descricao': 'Atari 2600'
-   ,
-    {
-      'titulo': 'Riddle Of The Sphinx',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'Raiders Of The Lost Ark',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'E.T. The Extra-Terrestrial',
-      'descricao': 'Atari 2600'
-    },
-    {
-      'titulo': 'Nenhum',
-      'descricao': 'Atari 5200'
-    }
-    {
-      'titulo': 'Nenhum',
-      'descricao': 'Atari 7800'
-    }  
-    {
-      'titulo': 'Quest For The Golden Chalice',
-      'descricao': 'ColecoVision'
-    }
-    {
-      'titulo': 'Pitfall II: Lost Caverns',
-      'descricao': 'MSX'
-    }                 
-    {
-      'titulo': 'Magical Kid Wiz',
-      'descricao': 'MSX'
-    }    
-    {
-      'titulo': 'Alex Kidd In Miracle World',
-      'descricao': 'Master System'
-    },
-]
+        'titulo': 'Adventure',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'H.E.R.O.',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Teddy Apple',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Pitfall',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Superman',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Riddle Of The Sphinx',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Raiders Of The Lost Ark',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'E.T. The Extra-Terrestrial',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Nenhum',
+        'descricao': 'Atari 5200'
+      },
+      {
+        'titulo': 'Nenhum',
+        'descricao': 'Atari 7800'
+      }, 
+      {
+        'titulo': 'Quest For The Golden Chalice',
+        'descricao': 'ColecoVision'
+      },
+      {
+        'titulo': 'Pitfall II: Lost Caverns',
+        'descricao': 'MSX'
+      },
+      {
+        'titulo': 'Magical Kid Wiz',
+        'descricao': 'MSX'
+      },    
+      {
+        'titulo': 'Alex Kidd In Miracle World',
+        'descricao': 'Master System'
+      }
+    ]
   });
 }

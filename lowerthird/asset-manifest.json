@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lowerthird/static/css/main.32443107.css",
+    "main.js": "/lowerthird/static/js/main.122b4a77.js",
+    "index.html": "/lowerthird/index.html",
+    "main.32443107.css.map": "/lowerthird/static/css/main.32443107.css.map",
+    "main.122b4a77.js.map": "/lowerthird/static/js/main.122b4a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32443107.css",
+    "static/js/main.122b4a77.js"
+  ]
+}

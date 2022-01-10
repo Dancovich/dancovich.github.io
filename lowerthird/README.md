@@ -17,8 +17,10 @@
 - O campo "tipo" é exibido no lado esquerdo do quadro, dentro da área roxa
 - O campo "jogador" aparece ao lado do campo "descricao" de cada item. Por exemplo, se "jogador" for Danilo e
   o item da lista for um com título "Ação Games" e descrição "Edição Março 1992", o quadro exibirá o seguinte
+```
     Ação Games
     Danilo - Março 1992
+```
 - Após criar sua lista, existem dois arquivos que podem ser editados: "master_list_eric.mjs" e "master_list_danilo.mjs". Edite o arquivo correspondente ao dono da lista.
 - Abra esse arquivo e adicione o comando "import" para importar a nova lista que você criou.
 - Exemplo, assumindo que estamos acrescentando uma lista para Eric, nosso arquivo "master_list_eric.mjs" está assim

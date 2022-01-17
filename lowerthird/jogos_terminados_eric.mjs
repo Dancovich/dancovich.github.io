@@ -58,7 +58,7 @@ export function adicionarLista() {
         'descricao': 'Atari 7800'
       }, 
       {
-        'titulo': 'Kazumi Ninja,
+        'titulo': 'Kazumi Ninja',
         'descricao': 'Atari Jaguar'
       }, 
       {

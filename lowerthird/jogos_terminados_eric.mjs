@@ -390,8 +390,8 @@ export function adicionarLista() {
         'descricao': 'Nintendo'
       },
       {
-        'titulo': 'Falsion',
-        'descricao': 'Nintendo'
+        'titulo': 'Batman: Arkham VR',
+        'descricao': 'PlayStation 4'
       },
       {
         'titulo': 'Cosmic Epsilon',
@@ -1812,6 +1812,18 @@ export function adicionarLista() {
       {
         'titulo': 'Enemy 2: Missing In Action',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Ninja Warriors',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Landstalker',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Blazing Lazers',
+        'descricao': 'PC Engine'
       }
     ]
   });

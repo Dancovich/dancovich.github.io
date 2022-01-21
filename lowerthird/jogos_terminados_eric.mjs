@@ -1824,6 +1824,10 @@ export function adicionarLista() {
       {
         'titulo': 'Blazing Lazers',
         'descricao': 'PC Engine'
+      },
+      {
+        'titulo': 'Edo No Kiba',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

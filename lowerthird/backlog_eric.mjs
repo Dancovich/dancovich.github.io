@@ -24,6 +24,7 @@ export function adicionarLista() {
       {
         'titulo': 'The Adventures of Lomax',
         'descricao': 'PlayStation'
+      },
       {
         'titulo': 'Shiren The Wanderer',
         'descricao': 'Wii'

@@ -1682,7 +1682,7 @@ export function adicionarLista() {
         'descricao': 'PC'
       },
       {
-        'titulo': 'Prince Of Persia [2008]',
+        'titulo': 'Prince Of Persia (2008)',
         'descricao': 'PC'
       },
       {

@@ -1828,6 +1828,10 @@ export function adicionarLista() {
       {
         'titulo': 'Edo No Kiba',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Metal Dragon',
+        'descricao': 'Mega Drive'
       }
     ]
   });

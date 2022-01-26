@@ -390,12 +390,292 @@ export function adicionarLista() {
         'descricao': 'Super Nintendo'
       },
       {
+        'titulo': 'The Adventure Of Little Ralph',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'The Last Story',
+        'descricao': 'Wii'
+      },
+      {
+        'titulo': 'The Terminator',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Bulk Slash',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Kishin Douji Zenki: Battle Raiden',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Kid Niki',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Gradius Rebirth',
+        'descricao': 'Wii'
+      },
+      {
+        'titulo': 'Ninja Combat',
+        'descricao': 'Neo Geo CD'
+      },
+      {
+        'titulo': 'Rush\'n Attack',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Border Down',
+        'descricao': 'Dreamcast'
+      },
+      {
+        'titulo': 'Chameleon Twist',
+        'descricao': 'Nintendo 64'
+      },
+      {
+        'titulo': 'Undead Line',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Summer Carnival\'92: Recca',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Dragon View',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Xardion',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Subterrania',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Bio Hazard Battle',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Valkirie Profile',
+        'descricao': 'PlayStation'
+      },
+      {
         'titulo': 'King Colossus',
         'descricao': 'Mega Drive'
       },
       {
-        'titulo': 'Code Name: Viper',
+        'titulo': 'Wild Arms',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Rambo',
+        'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Vapor Trail',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Bionic Commando',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Captain Commando',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'G-Police',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Hyper Duel',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Devastator',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Gargoyles',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Ex-Mutants',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Thread Of Fate',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Psycho Dream',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Shiren The Wanderer',
+        'descricao': 'Wii'
+      },
+      {
+        'titulo': 'Section Z',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Super Nova',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Rygar',
+        'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Psyvariar: Complete Edition',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Psyvariar 2: The Will To Fabricate',
+        'descricao': 'Dreamcast'
+      },
+      {
+        'titulo': 'Alien Resurrection',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Almana No Kiseki',
+        'descricao': 'Famicom Disk System'
+      },
+      {
+        'titulo': 'Wrath Of The Black Manta',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'G-Darius',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Actraiser 2',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Legend Of Legaia',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Brave Fencer Musashi',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Gun-Nac',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Heart Of Darkness',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Sol Divide',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Seek And Destroy',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Extermination',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Thexder',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': '8 Eyes',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Starship Hector',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Werewolf: The Last Warrior',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Kendo Rage',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Ninja Crusaders',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Toxic Crusaders',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Gungage',
+        'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Otogi',
+        'descricao': 'Xbox'
+      },
+      {
+        'titulo': 'Aggelos',
+        'descricao': 'PlayStation 4'
+      },
+      {
+        'titulo': 'EON',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'A/X-101',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Skeleton Warriors',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Castlevania: Lament Of Innocence',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Prince Of Persia',
+        'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Mass Destruction',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Scorcher',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Noon',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Solar Eclipse',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Wing Arms',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'The Bouncer',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Devilish',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Gunple: Gunman\'s Proof',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

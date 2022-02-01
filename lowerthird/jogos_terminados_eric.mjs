@@ -1832,6 +1832,18 @@ export function adicionarLista() {
       {
         'titulo': 'Metal Dragon',
         'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Valis: The Fantasm Soldier',
+        'descricao': 'PC Engine CD'
+      },
+      {
+        'titulo': 'Armored Warriors',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Eco Fighters',
+        'descricao': 'Arcade'
       }
     ]
   });

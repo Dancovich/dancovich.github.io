@@ -1844,6 +1844,10 @@ export function adicionarLista() {
       {
         'titulo': 'Eco Fighters',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Cyborg 009',
+        'descricao': 'Sega CD'
       }
     ]
   });

@@ -1848,6 +1848,10 @@ export function adicionarLista() {
       {
         'titulo': 'Cyborg 009',
         'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Kendo Rage',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

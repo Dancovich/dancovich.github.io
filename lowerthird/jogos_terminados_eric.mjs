@@ -1852,6 +1852,10 @@ export function adicionarLista() {
       {
         'titulo': 'Kendo Rage',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Warriors Of Fate',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -15,3 +15,5 @@ import {adicionarLista as adicionarBacklogEric} from './backlog_eric.mjs';
 
 adicionarTerminadosEric();
 adicionarBacklogEric();
+adicionarBacklogEric();
+adicionarBacklogEric();

@@ -17,3 +17,5 @@ adicionarTerminadosEric();
 adicionarBacklogEric();
 adicionarBacklogEric();
 adicionarBacklogEric();
+adicionarBacklogEric();
+adicionarBacklogEric();

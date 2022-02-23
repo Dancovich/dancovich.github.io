@@ -14,7 +14,7 @@
 
 export function adicionarLista() {
   window.pushFile({
-    'tipo': 'NO BACKLOG DO CFX',
+    'tipo': 'BACKLOG DO CFX',
     'jogador': 'Eric',
     'dados': [
       {

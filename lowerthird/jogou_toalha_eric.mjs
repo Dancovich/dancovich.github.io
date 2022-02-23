@@ -23,7 +23,115 @@ export function adicionarLista() {
       },
       {
         'titulo': 'Ninja Gaiden',
-        'descricao': 'NES'
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Fantasy Zone 2',
+        'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Actraiser 2',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Lagrange Point',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Albert Odyssey',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Shantae',
+        'descricao': 'Game Boy Color'
+      },
+      {
+        'titulo': 'Fhey Area',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Mega Man X',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Castlevania III',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Gekido Advance',
+        'descricao': 'Game Boy Advance'
+      },
+      {
+        'titulo': 'Gradius V',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Kick Master',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Cyber Shadow',
+        'descricao': 'Xbox One'
+      },
+      {
+        'titulo': 'Equinox',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Panzer Dragoon',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'R-Type Final',
+        'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Shadow Complex',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Rolling Thunder',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Blazeon',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Jackal',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Hissatsu!',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Sorcery Saga',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Silent Debuggers',
+        'descricao': 'PC Engine'
+      },
+      {
+        'titulo': 'Sekiro',
+        'descricao': 'PlayStation 4'
+      },
+      {
+        'titulo': 'Killing Time',
+        'descricao': '3DO'
+      },
+      {
+        'titulo': 'Operation Logic Bomb',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Brain Lord',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Carrier',
+        'descricao': 'Dreamcast'
       }
     ]
   });

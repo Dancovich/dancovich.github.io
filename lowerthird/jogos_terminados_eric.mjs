@@ -1856,6 +1856,10 @@ export function adicionarLista() {
       {
         'titulo': 'Warriors Of Fate',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Willow',
+        'descricao': 'Arcade'
       }
     ]
   });

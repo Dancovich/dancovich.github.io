@@ -1860,6 +1860,14 @@ export function adicionarLista() {
       {
         'titulo': 'Willow',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Renny Blaster',
+        'descricao': 'PC Engine CD'
+      },
+      {
+        'titulo': 'Tiger Road',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -1868,6 +1868,18 @@ export function adicionarLista() {
       {
         'titulo': 'Tiger Road',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Hihou Densetsu: Chris No Bouken',
+        'descricao': 'PC Engine CD'
+      },
+      {
+        'titulo': 'Valis II',
+        'descricao': 'PC Engine CD'
+      },
+      {
+        'titulo': 'Zed Blade',
+        'descricao': 'Arcade'
       }
     ]
   });

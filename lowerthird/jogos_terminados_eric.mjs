@@ -1880,6 +1880,14 @@ export function adicionarLista() {
       {
         'titulo': 'Zed Blade',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Elemental Master',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Lionheart',
+        'descricao': 'Amiga'
       }
     ]
   });

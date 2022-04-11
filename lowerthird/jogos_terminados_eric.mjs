@@ -1888,6 +1888,10 @@ export function adicionarLista() {
       {
         'titulo': 'Lionheart',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Alien Storm',
+        'descricao': 'Master System'
       }
     ]
   });

@@ -1892,6 +1892,14 @@ export function adicionarLista() {
       {
         'titulo': 'Alien Storm',
         'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Aldynes',
+        'descricao': 'TurboGrafx'
+      },
+      {
+        'titulo': 'Fantasy Zone II',
+        'descricao': 'Master System'
       }
     ]
   });

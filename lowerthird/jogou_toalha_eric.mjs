@@ -132,6 +132,14 @@ export function adicionarLista() {
       {
         'titulo': 'Carrier',
         'descricao': 'Dreamcast'
+      },
+      {
+        'titulo': 'Hellfire S',
+        'descricao': 'PC Engine CD'
+      },
+      {
+        'titulo': 'Star Wars Arcade',
+        'descricao': 'Mega 32X'
       }
     ]
   });

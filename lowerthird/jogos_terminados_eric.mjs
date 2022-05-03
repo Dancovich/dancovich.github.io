@@ -1900,6 +1900,18 @@ export function adicionarLista() {
       {
         'titulo': 'Fantasy Zone II',
         'descricao': 'Master System'
+      },
+      {
+        'titulo': 'RoboCop',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Dynamite Dux',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Metal Mutant',
+        'descricao': 'Amiga'
       }
     ]
   });

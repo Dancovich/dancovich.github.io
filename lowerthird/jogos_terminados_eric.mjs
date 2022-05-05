@@ -1912,6 +1912,10 @@ export function adicionarLista() {
       {
         'titulo': 'Metal Mutant',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Teenage Mutant Ninja Turtles: Turtles in Time',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

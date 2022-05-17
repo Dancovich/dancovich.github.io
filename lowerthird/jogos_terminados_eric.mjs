@@ -1916,6 +1916,14 @@ export function adicionarLista() {
       {
         'titulo': 'Teenage Mutant Ninja Turtles: Turtles in Time',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Riot City',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Midnight Resistance',
+        'descricao': 'Arcade'
       }
     ]
   });

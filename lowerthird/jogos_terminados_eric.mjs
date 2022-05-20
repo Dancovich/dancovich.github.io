@@ -1924,6 +1924,10 @@ export function adicionarLista() {
       {
         'titulo': 'Midnight Resistance',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Gungage',
+        'descricao': 'PlayStation'
       }
     ]
   });

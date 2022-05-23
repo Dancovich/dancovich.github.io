@@ -1928,6 +1928,14 @@ export function adicionarLista() {
       {
         'titulo': 'Gungage',
         'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Organism',
+        'descricao': 'Commodore 64'
+      },
+      {
+        'titulo': 'Rolling Thunder 3',
+        'descricao': 'Mega Drive'
       }
     ]
   });

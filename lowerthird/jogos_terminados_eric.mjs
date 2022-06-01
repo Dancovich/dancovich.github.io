@@ -1936,6 +1936,10 @@ export function adicionarLista() {
       {
         'titulo': 'Rolling Thunder 3',
         'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Gardis Light',
+        'descricao': 'Sharp X68000'
       }
     ]
   });

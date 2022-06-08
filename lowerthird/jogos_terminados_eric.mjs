@@ -1940,6 +1940,10 @@ export function adicionarLista() {
       {
         'titulo': 'Gardis Light',
         'descricao': 'Sharp X68000'
+      },
+      {
+        'titulo': 'Low G Man: The Low Gravity Man',
+        'descricao': 'Nintendo'
       }
     ]
   });

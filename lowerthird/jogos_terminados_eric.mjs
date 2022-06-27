@@ -1944,6 +1944,14 @@ export function adicionarLista() {
       {
         'titulo': 'Low G Man: The Low Gravity Man',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Shadow Complex',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Invasores Do Cosmos',
+        'descricao': 'Odyssey'
       }
     ]
   });

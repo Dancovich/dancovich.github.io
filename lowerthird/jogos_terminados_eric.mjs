@@ -1952,6 +1952,10 @@ export function adicionarLista() {
       {
         'titulo': 'Invasores Do Cosmos',
         'descricao': 'Odyssey'
+      },
+      {
+        'titulo': 'Shatterhand',
+        'descricao': 'Nintendo'
       }
     ]
   });

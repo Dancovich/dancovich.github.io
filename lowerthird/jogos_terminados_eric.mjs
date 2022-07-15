@@ -1956,6 +1956,10 @@ export function adicionarLista() {
       {
         'titulo': 'Shatterhand',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Resident Evil 3: Nemesis',
+        'descricao': 'GameCube'
       }
     ]
   });

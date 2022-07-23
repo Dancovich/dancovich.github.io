@@ -24,6 +24,14 @@ export function adicionarLista() {
       {
         'titulo': 'Sai de baixo! Pintou sujeira: como é pentelho este velhinho.',
         'descricao': 'Ação Games Nº 41'
+      },
+      {
+        'titulo': 'A chave da porta que você pegou lá atrás serve para abrir portas que o levarão a outros locais da fase.',
+        'descricao': 'Ação Games Nº 3'
+      },
+      {
+        'titulo': 'Para obter o continue nesse game, espere pela tela de game over.',
+        'descricao': 'Ação Games Nº 3'
       }
     ]
   });

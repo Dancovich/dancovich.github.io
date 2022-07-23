@@ -15,11 +15,11 @@ import { adicionarLista as adicionarBacklogEric } from './backlog_eric.mjs';
 import { adicionarLista as adicionarJogouToalhaEric } from './jogou_toalha_eric.mjs';
 import { adicionarLista as adicionarDicasAcaoGames } from './dicas_acao_games.mjs';
 
-adicionarTerminadosEric();
-adicionarJogouToalhaEric();
-adicionarBacklogEric();
-adicionarBacklogEric();
-adicionarBacklogEric();
-adicionarBacklogEric();
-adicionarBacklogEric();
+//adicionarTerminadosEric();
+//adicionarJogouToalhaEric();
+//adicionarBacklogEric();
+//adicionarBacklogEric();
+//adicionarBacklogEric();
+//adicionarBacklogEric();
+//adicionarBacklogEric();
 adicionarDicasAcaoGames();

@@ -14,7 +14,7 @@
 
 export function adicionarLista() {
     window.pushFile({
-        'tipo': 'DICAS AÇÃO GAMES',
+        'tipo': 'DICAS DA REVISTA',
         'jogador': 'Eric',
         'dados': [
             {

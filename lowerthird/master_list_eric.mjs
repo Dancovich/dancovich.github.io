@@ -13,7 +13,7 @@
 import { adicionarLista as adicionarTerminadosEric } from './jogos_terminados_eric.mjs';
 import { adicionarLista as adicionarBacklogEric } from './backlog_eric.mjs';
 import { adicionarLista as adicionarJogouToalhaEric } from './jogou_toalha_eric.mjs';
-import { adicionarLista as adicionarDicasAcaoGames } from './dicas_acao_games.mjs';
+import { adicionarLista as adicionarDicasDaRevista } from './dicas_da_revista.mjs';
 
 adicionarTerminadosEric();
 adicionarJogouToalhaEric();
@@ -22,4 +22,4 @@ adicionarBacklogEric();
 adicionarBacklogEric();
 adicionarBacklogEric();
 adicionarBacklogEric();
-adicionarDicasAcaoGames();
+adicionarDicasDaRevista();

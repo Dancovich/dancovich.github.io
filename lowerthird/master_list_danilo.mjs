@@ -10,6 +10,6 @@
 // - Ao final do arquivo, insira o comando "nomeUnico();", ou seja, use o nome que você criou e
 //   adicione (); (parênteses e ponto-e-vírgula) ao final.
 
-import {adicionarLista as adicionarTerminadosDanilo} from './jogos_terminados_danilo.mjs';
+import { adicionarLista as adicionarTerminadosDanilo } from './jogos_terminados_danilo.mjs';
 
 adicionarTerminadosDanilo();

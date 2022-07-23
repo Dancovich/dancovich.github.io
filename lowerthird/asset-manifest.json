@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/lowerthird/static/css/main.32443107.css",
-    "main.js": "/lowerthird/static/js/main.122b4a77.js",
+    "main.css": "/lowerthird/static/css/main.84de6744.css",
+    "main.js": "/lowerthird/static/js/main.f3255f5a.js",
+    "static/media/dicas_revista_bg.png": "/lowerthird/static/media/dicas_revista_bg.d22d503a5cd5e1cf6961.png",
     "index.html": "/lowerthird/index.html",
-    "main.32443107.css.map": "/lowerthird/static/css/main.32443107.css.map",
-    "main.122b4a77.js.map": "/lowerthird/static/js/main.122b4a77.js.map"
+    "main.84de6744.css.map": "/lowerthird/static/css/main.84de6744.css.map",
+    "main.f3255f5a.js.map": "/lowerthird/static/js/main.f3255f5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.32443107.css",
-    "static/js/main.122b4a77.js"
+    "static/css/main.84de6744.css",
+    "static/js/main.f3255f5a.js"
   ]
 }

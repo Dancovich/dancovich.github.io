@@ -13,15 +13,18 @@
 // - Separe cada item por uma vírgula. Não coloque vírgula no último item
 
 export function adicionarLista() {
-    window.pushFile({
-        'tipo': 'DICAS DA REVISTA',
-        'jogador': 'Eric',
-        'dados': [
-            {
-                'titulo': 'Toda vez que um ovo malhado for quebrado, dele sairá um deus da morte',
-                'descricao': 'Wonder Boy - Master System',
-                'extra': 'Ação Games Nº 3'
-            }
-        ]
-    });
+  window.pushFile({
+    'tipo': 'DICAS DA REVISTA',
+    'jogador': 'Eric',
+    'dados': [
+      {
+        'titulo': 'Toda vez que um ovo malhado for quebrado, dele sairá um deus da morte',
+        'descricao': 'Ação Games Nº 3'
+      },
+      {
+        'titulo': 'Sai de baixo! Pintou sujeira: como é pentelho este velhinho.',
+        'descricao': 'Ação Games Nº 41'
+      }
+    ]
+  });
 }

@@ -24,7 +24,3 @@ adicionarBacklogEric();
 adicionarBacklogEric();
 adicionarDicasDaRevista();
 adicionarDicasDaRevista();
-adicionarDicasDaRevista();
-adicionarDicasDaRevista();
-adicionarDicasDaRevista();
-adicionarDicasDaRevista();

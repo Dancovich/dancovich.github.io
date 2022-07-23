@@ -12,4 +12,4 @@
 
 import {adicionarLista as adicionarTerminadosDanilo} from './jogos_terminados_danilo.mjs';
 
-adicionarTerminadosDanilo();
+//adicionarTerminadosDanilo();

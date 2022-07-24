@@ -32,6 +32,14 @@ export function adicionarLista() {
       {
         'titulo': 'Para obter o continue nesse game, espere pela tela de game over.',
         'descricao': 'Ação Games Nº 3'
+      },
+      {
+        'titulo': 'Não gaste magias à toa em Biggs e Wedge.',
+        'descricao': 'Super Game Power Nº 62'
+      },
+      {
+        'titulo': 'Para conseguir vencer o computador em qualquer nível de dificuldade não é preciso nenhum esforço sobrenatural.',
+        'descricao': 'Super Game Power Nº 3'
       }
     ]
   });

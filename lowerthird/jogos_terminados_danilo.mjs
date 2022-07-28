@@ -276,6 +276,10 @@ export function adicionarLista() {
       {
         'titulo': 'Felix the Cat',
         'descricao': 'NES'
+      },
+      {
+        'titulo': 'Tunic',
+        'descricao': 'Xbox Series X'
       }
     ]
   });

@@ -40,6 +40,30 @@ export function adicionarLista() {
       {
         'titulo': 'Para conseguir vencer o computador em qualquer nível de dificuldade não é preciso nenhum esforço sobrenatural.',
         'descricao': 'Super Game Power Nº 3'
+      },
+      {
+        'titulo': 'Quando aparecer um cara que ataca de perto, não vacile. Atire no ato.',
+        'descricao': 'Super Game Power Nº 87'
+      },
+      {
+        'titulo': 'A munição é ilimitada, por isso fique sempre atirando enquanto explora novos territórios.',
+        'descricao': 'Super Game Power Nº 42'
+      },
+      {
+        'titulo': 'Quanto mais poderoso você for, mais fácil será derrotar seus inimigos.',
+        'descricao': 'Guia Games, Abril 92'
+      },
+      {
+        'titulo': 'No túnel do planeta verde não pare de atirar e soltar mísseis, pois assim você derrotará os inimigos ao aparecerem na tela.',
+        'descricao': 'Videogame Nº 4'
+      },
+      {
+        'titulo': 'Para pegar a manha, aprenda a mover-se e atirar com precisão.',
+        'descricao': 'Super Game Power Nº 60'
+      },
+      {
+        'titulo': 'Mate a maioria dos inimigos apenas apertando o botão de ataque.',
+        'descricao': 'Super Game Power Nº 60'
       }
     ]
   });

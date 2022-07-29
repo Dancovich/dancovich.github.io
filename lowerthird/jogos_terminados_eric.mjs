@@ -1960,7 +1960,11 @@ export function adicionarLista() {
       {
         'titulo': 'Resident Evil 3: Nemesis',
         'descricao': 'GameCube'
-      }
+      },
+      {
+        'titulo': 'Turtles Shreder\'s Revenge',
+        'descricao': 'Switch'
+      } 
     ]
   });
 }

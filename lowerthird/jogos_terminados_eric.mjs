@@ -1962,8 +1962,12 @@ export function adicionarLista() {
         'descricao': 'GameCube'
       },
       {
-        'titulo': 'Turtles Shreder\'s Revenge',
+        'titulo': 'Turtles Shredder\'s Revenge',
         'descricao': 'Switch'
+      },
+      {
+        'titulo': 'The King Of Dragons',
+        'descricao': 'Arcade'
       } 
     ]
   });

@@ -1968,6 +1968,10 @@ export function adicionarLista() {
       {
         'titulo': 'The King Of Dragons',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Metal Law',
+        'descricao': 'Amiga'
       } 
     ]
   });

@@ -1972,6 +1972,10 @@ export function adicionarLista() {
       {
         'titulo': 'Metal Law',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Lorna',
+        'descricao': 'Amiga'
       } 
     ]
   });

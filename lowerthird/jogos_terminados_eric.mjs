@@ -1976,6 +1976,10 @@ export function adicionarLista() {
       {
         'titulo': 'Lorna',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Gaia Seed',
+        'descricao': 'PlayStation'
       } 
     ]
   });

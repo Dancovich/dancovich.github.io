@@ -1980,6 +1980,14 @@ export function adicionarLista() {
       {
         'titulo': 'Gaia Seed',
         'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Submarine Attack',
+        'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Bad Dudes',
+        'descricao': 'Arcade'
       } 
     ]
   });

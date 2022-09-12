@@ -1988,7 +1988,11 @@ export function adicionarLista() {
       {
         'titulo': 'Bad Dudes',
         'descricao': 'Arcade'
-      } 
+      },
+      {
+        'titulo': 'RobertCop 2 Vs Dragonninja',
+        'descricao': 'Mega Drive'
+      }
     ]
   });
 }

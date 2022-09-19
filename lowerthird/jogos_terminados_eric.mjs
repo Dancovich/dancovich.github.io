@@ -1992,6 +1992,10 @@ export function adicionarLista() {
       {
         'titulo': 'RobertCop 2 Vs Dragonninja',
         'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Gaia Crusaders,
+        'descricao': 'Arcade'
       }
     ]
   });

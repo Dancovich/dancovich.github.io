@@ -1994,8 +1994,12 @@ export function adicionarLista() {
         'descricao': 'Mega Drive'
       },
       {
-        'titulo': 'Gaia Crusaders,
+        'titulo': 'Gaia Crusaders',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Adulting',
+        'descricao': 'Game Boy'
       }
     ]
   });

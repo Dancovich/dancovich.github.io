@@ -2000,6 +2000,14 @@ export function adicionarLista() {
       {
         'titulo': 'Adulting',
         'descricao': 'Game Boy'
+      },
+      {
+        'titulo': 'Zombiehunter Bob',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Quake',
+        'descricao': 'Nintendo 64'
       }
     ]
   });

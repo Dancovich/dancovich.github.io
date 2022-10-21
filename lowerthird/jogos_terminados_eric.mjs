@@ -2008,6 +2008,10 @@ export function adicionarLista() {
       {
         'titulo': 'Quake',
         'descricao': 'Nintendo 64'
+      },
+      {
+        'titulo': 'One',
+        'descricao': 'PlayStation'
       }
     ]
   });

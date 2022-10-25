@@ -2012,6 +2012,22 @@ export function adicionarLista() {
       {
         'titulo': 'One',
         'descricao': 'PlayStation'
+      },
+      {
+        'titulo': 'Ys II Ancient Ys Vanished – The Final Chapter',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Blaynix',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Beast Vs. Aliens',
+        'descricao': 'Fangame'
+      },
+      {
+        'titulo': 'Tracy NESCapades',
+        'descricao': 'Nintendo'
       }
     ]
   });

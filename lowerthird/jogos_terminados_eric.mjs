@@ -2028,6 +2028,30 @@ export function adicionarLista() {
       {
         'titulo': 'Tracy NESCapades',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Rekt',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Shadow Of The ninja',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'In Utero',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'After Burner II',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'The Plague',
+        'descricao': 'Amiga'
+      }
+      {
+        'titulo': 'Bay Route',
+        'descricao': 'Arcade'
       }
     ]
   });

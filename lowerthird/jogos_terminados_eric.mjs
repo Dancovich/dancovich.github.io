@@ -2053,6 +2053,10 @@ export function adicionarLista() {
         'titulo': 'Bay Route',
         'descricao': 'Arcade'
       }
+      {
+        'titulo': 'Gargoyles',
+        'descricao': 'Mega Drive'
+      }
     ]
   });
 }

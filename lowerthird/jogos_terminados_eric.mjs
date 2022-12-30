@@ -2048,11 +2048,11 @@ export function adicionarLista() {
       {
         'titulo': 'The Plague',
         'descricao': 'Amiga'
-      }
+      },
       {
         'titulo': 'Bay Route',
         'descricao': 'Arcade'
-      }
+      },
       {
         'titulo': 'Gargoyles',
         'descricao': 'Mega Drive'

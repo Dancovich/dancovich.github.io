@@ -140,6 +140,14 @@ export function adicionarLista() {
       {
         'titulo': 'Star Wars Arcade',
         'descricao': 'Mega 32X'
+      },
+      {
+        'titulo': 'Masters Of The Universe',
+        'descricao': 'Atari ST'
+      },
+      {
+        'titulo': 'Gemini Wing',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -2056,6 +2056,10 @@ export function adicionarLista() {
       {
         'titulo': 'Gargoyles',
         'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Prisoners Of War',
+        'descricao': 'Arcade'
       }
     ]
   });

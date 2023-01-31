@@ -2060,6 +2060,10 @@ export function adicionarLista() {
       {
         'titulo': 'Prisoners Of War',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Stranded',
+        'descricao': 'PC'
       }
     ]
   });

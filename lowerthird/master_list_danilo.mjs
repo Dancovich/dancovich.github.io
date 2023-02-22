@@ -11,5 +11,7 @@
 //   adicione (); (parênteses e ponto-e-vírgula) ao final.
 
 import { adicionarLista as adicionarTerminadosDanilo } from './jogos_terminados_danilo.mjs';
+import { adicionarLista as adicionarJogouToalhaDanilo } from './jogou_toalha_danilo.mjs';
 
 adicionarTerminadosDanilo();
+adicionarJogouToalhaDanilo();

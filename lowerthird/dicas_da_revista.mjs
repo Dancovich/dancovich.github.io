@@ -80,6 +80,20 @@ export function adicionarLista() {
       {
         'titulo': 'Verifique tudo a fim de conseguir itens e dicas',
         'descricao': 'Super Game Power Nº 3'
+      },
+      {
+        'titulo': 'Lembre-se de que você possui diversas armas. Use-as quando for preciso',
+        'descricao': 'Super Game Power Nº 80'
+      }
+      ,
+      {
+        'titulo': 'Quando estiver na floresta, pule os barris rolantes para que eles não roubem boa parte de sua energia',
+        'descricao': 'Super Game Power Nº 15'
+      }
+      ,
+      {
+        'titulo': 'Não seja tímido com seus oponentes, se algum otário ficar no seu caminho, jogue-o para fora',
+        'descricao': 'Super Game Power Nº 74'
       }
     ]
   });

@@ -2064,6 +2064,10 @@ export function adicionarLista() {
       {
         'titulo': 'Stranded',
         'descricao': 'PC'
+      },
+      {
+        'titulo': 'Out Zone',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -2068,6 +2068,10 @@ export function adicionarLista() {
       {
         'titulo': 'Out Zone',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Vampire Survivor',
+        'descricao': 'Xbox One'
       }
     ]
   });

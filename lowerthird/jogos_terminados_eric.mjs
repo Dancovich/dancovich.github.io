@@ -2072,7 +2072,35 @@ export function adicionarLista() {
       {
         'titulo': 'Vampire Survivor',
         'descricao': 'Xbox One'
+      },
+      {
+        'titulo': 'F-Zero X',
+        'descricao': 'Nintendo 64'
+      },
+      {
+        'titulo': 'U.N. Squadron',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Keystone Kapers',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Shattering Jaws',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'AshGuine',
+        'descricao': 'MSX'
+      },
+      {
+        'titulo': 'Quest For The Golden Chalice',
+        'descricao': 'ColecoVision'
+      },
+      {
+        'titulo': 'Magician Lord',
+        'descricao': 'Arcade'
       }
-    ]
+     ]
   });
 }

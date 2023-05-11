@@ -95,6 +95,11 @@ export function adicionarLista() {
         'titulo': 'Não seja tímido com seus oponentes, se algum otário ficar no seu caminho, jogue-o para fora',
         'descricao': 'Super Game Power Nº 74'
       }
+      ,
+      {
+        'titulo': 'Evite ao máximo ficar entre dois soldados para não levar um empurrão e poupe sua energia, porque o caminho é longo',
+        'descricao': 'Supergame Nº 01'
+      }
     ]
   });
 }

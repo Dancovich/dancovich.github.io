@@ -2100,6 +2100,22 @@ export function adicionarLista() {
       {
         'titulo': 'Magician Lord',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Double Dragon',
+        'descricao': 'Zeebo'
+      },
+      {
+        'titulo': 'Seitar',
+        'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Forgotten Worlds',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Wrath Of The Demon',
+        'descricao': 'Amiga'
       }
      ]
   });

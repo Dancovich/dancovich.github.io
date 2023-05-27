@@ -2116,6 +2116,10 @@ export function adicionarLista() {
       {
         'titulo': 'Wrath Of The Demon',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Metal Black',
+        'descricao': 'Saturn'
       }
      ]
   });

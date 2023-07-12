@@ -2120,6 +2120,26 @@ export function adicionarLista() {
       {
         'titulo': 'Metal Black',
         'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Street Fighter 2: Special Champion Edition',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Super Street Fighter 2: The New Challengers',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Space Invaders 91',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Doman: Grzechy Ardana',
+        'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'In The Hunt',
+        'descricao': 'Arcade'
       }
      ]
   });

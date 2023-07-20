@@ -35,19 +35,19 @@ export function adicionarLista() {
       },
       {
         'titulo': 'Não gaste magias à toa em Biggs e Wedge',
-        'descricao': 'Super Game Power Nº 62'
+        'descricao': 'Super GamePower Nº 62'
       },
       {
         'titulo': 'Para conseguir vencer o computador em qualquer nível de dificuldade não é preciso nenhum esforço sobrenatural',
-        'descricao': 'Super Game Power Nº 3'
+        'descricao': 'Super GamePower Nº 3'
       },
       {
         'titulo': 'Quando aparecer um cara que ataca de perto, não vacile. Atire no ato',
-        'descricao': 'Super Game Power Nº 87'
+        'descricao': 'Super GamePower Nº 87'
       },
       {
         'titulo': 'A munição é ilimitada, por isso fique sempre atirando enquanto explora novos territórios',
-        'descricao': 'Super Game Power Nº 42'
+        'descricao': 'Super GamePower Nº 42'
       },
       {
         'titulo': 'Quanto mais poderoso você for, mais fácil será derrotar seus inimigos',
@@ -59,11 +59,11 @@ export function adicionarLista() {
       },
       {
         'titulo': 'Para pegar a manha, aprenda a mover-se e atirar com precisão',
-        'descricao': 'Super Game Power Nº 60'
+        'descricao': 'Super GamePower Nº 60'
       },
       {
         'titulo': 'Mate a maioria dos inimigos apenas apertando o botão de ataque',
-        'descricao': 'Super Game Power Nº 60'
+        'descricao': 'Super GamePower Nº 60'
       },
       {
         'titulo': 'Consulte o mapa sempre que possível para não se perder no cenário',
@@ -71,34 +71,49 @@ export function adicionarLista() {
       },
       {
         'titulo': 'Procure falar com todos durante o jogo, pois eles dão informações muito importantes',
-        'descricao': 'Super Game Power Nº 3'
+        'descricao': 'Super GamePower Nº 3'
       },
       {
         'titulo': 'As vezes o jogo indica para apertar os botões (A, B ou C). Fique esperto!',
-        'descricao': 'Super Game Power Nº 3'
+        'descricao': 'Super GamePower Nº 3'
       },
       {
         'titulo': 'Verifique tudo a fim de conseguir itens e dicas',
-        'descricao': 'Super Game Power Nº 3'
+        'descricao': 'Super GamePower Nº 3'
       },
       {
         'titulo': 'Lembre-se de que você possui diversas armas. Use-as quando for preciso',
-        'descricao': 'Super Game Power Nº 80'
+        'descricao': 'Super GamePower Nº 80'
       }
       ,
       {
         'titulo': 'Quando estiver na floresta, pule os barris rolantes para que eles não roubem boa parte de sua energia',
-        'descricao': 'Super Game Power Nº 15'
+        'descricao': 'Super GamePower Nº 15'
       }
       ,
       {
         'titulo': 'Não seja tímido com seus oponentes, se algum otário ficar no seu caminho, jogue-o para fora',
-        'descricao': 'Super Game Power Nº 74'
+        'descricao': 'Super GamePower Nº 74'
       }
       ,
       {
         'titulo': 'Evite ao máximo ficar entre dois soldados para não levar um empurrão e poupe sua energia, porque o caminho é longo',
         'descricao': 'Supergame Nº 01'
+      }
+      ,
+      {
+        'titulo': 'Para acabar com essa cobra na moleza, atire na cabeça da bicha',
+        'descricao': 'Super GamePower Nº 42'
+      }
+      ,
+      {
+        'titulo': 'Fique esperto para não se chocar com os inimigos que vem por baixo',
+        'descricao': 'Super GamePower Nº 42'
+      }
+      ,
+      {
+        'titulo': 'Tome cuidado quando for colar na traseira de algum carro pois uma colisão nunca é bem-vinda',
+        'descricao': 'Super GamePower Nº 72'
       }
     ]
   });

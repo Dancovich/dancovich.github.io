@@ -148,6 +148,10 @@ export function adicionarLista() {
       {
         'titulo': 'Gemini Wing',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Mad Dog McCree 2: The Lost Gold',
+        'descricao': '3DO'
       }
     ]
   });

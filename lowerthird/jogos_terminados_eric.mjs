@@ -2140,6 +2140,10 @@ export function adicionarLista() {
       {
         'titulo': 'In The Hunt',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Mad Dog McCree',
+        'descricao': '3DO'
       }
      ]
   });

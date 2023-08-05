@@ -2144,6 +2144,10 @@ export function adicionarLista() {
       {
         'titulo': 'Mad Dog McCree',
         'descricao': '3DO'
+      },
+      {
+        'titulo': 'GG Aleste 3',
+        'descricao': 'Game Gear'
       }
      ]
   });

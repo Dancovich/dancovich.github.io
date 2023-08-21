@@ -2148,6 +2148,14 @@ export function adicionarLista() {
       {
         'titulo': 'GG Aleste 3',
         'descricao': 'Game Gear'
+      },
+      {
+        'titulo': 'Agony',
+        'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Pole Position',
+        'descricao': 'Atari 2600'
       }
      ]
   });

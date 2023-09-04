@@ -2156,6 +2156,18 @@ export function adicionarLista() {
       {
         'titulo': 'Pole Position',
         'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Ecco The Dolphin',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'TMNT II: The Arcade Game',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'TMNT III: The Manhattan Project',
+        'descricao': 'Nintendo'
       }
      ]
   });

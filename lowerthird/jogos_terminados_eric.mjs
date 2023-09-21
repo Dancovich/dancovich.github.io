@@ -2168,6 +2168,18 @@ export function adicionarLista() {
       {
         'titulo': 'TMNT III: The Manhattan Project',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Laser Gates',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Metal Morph',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Waldo Forever',
+        'descricao': 'Nintendo'
       }
      ]
   });

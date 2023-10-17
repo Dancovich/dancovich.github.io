@@ -2180,6 +2180,22 @@ export function adicionarLista() {
       {
         'titulo': 'Waldo Forever',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Unreal',
+        'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Ushio To Tora',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Out Run 2',
+        'descricao': 'Xbox'
+      },
+      {
+        'titulo': 'S.C.A.T.',
+        'descricao': 'Nintendo'
       }
      ]
   });

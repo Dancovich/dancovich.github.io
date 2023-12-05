@@ -2196,6 +2196,14 @@ export function adicionarLista() {
       {
         'titulo': 'S.C.A.T.',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Pier Solar And The Great Architects',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'The Legendary Axe II',
+        'descricao': 'PC Engine'
       }
      ]
   });

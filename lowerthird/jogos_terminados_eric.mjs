@@ -2204,6 +2204,10 @@ export function adicionarLista() {
       {
         'titulo': 'The Legendary Axe II',
         'descricao': 'PC Engine'
+      },
+      {
+        'titulo': 'Drelbs',
+        'descricao': 'Atari 7800'
       }
      ]
   });

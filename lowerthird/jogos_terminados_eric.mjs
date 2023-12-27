@@ -2034,7 +2034,7 @@ export function adicionarLista() {
         'descricao': 'Nintendo'
       },
       {
-        'titulo': 'Shadow Of The ninja',
+        'titulo': 'Shadow Of The Ninja',
         'descricao': 'Nintendo'
       },
       {
@@ -2217,6 +2217,6 @@ export function adicionarLista() {
         'titulo': 'Wurm: Journey To The Center Of The Earth',
         'descricao': 'Nintendo'
       }
-     ]
+    ]
   });
 }

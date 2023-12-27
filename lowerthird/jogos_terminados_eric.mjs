@@ -2208,6 +2208,14 @@ export function adicionarLista() {
       {
         'titulo': 'Drelbs',
         'descricao': 'Atari 7800'
+      },
+      {
+        'titulo': 'Stargunner',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Wurm: Journey To The Center Of The Earth',
+        'descricao': 'Nintendo'
       }
      ]
   });

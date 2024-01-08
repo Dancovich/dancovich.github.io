@@ -2216,6 +2216,14 @@ export function adicionarLista() {
       {
         'titulo': 'Wurm: Journey To The Center Of The Earth',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Beast Vs Aliens',
+        'descricao': 'PC (Fangame)'
+      },
+      {
+        'titulo': 'Robocop Vs Predator',
+        'descricao': 'PC (Fangame)'
       }
     ]
   });

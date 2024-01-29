@@ -2224,6 +2224,14 @@ export function adicionarLista() {
       {
         'titulo': 'Robocop Vs Predator',
         'descricao': 'PC (Fangame)'
+      },
+      {
+        'titulo': 'Hamburgers En Route To Switzerland',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Borderline',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

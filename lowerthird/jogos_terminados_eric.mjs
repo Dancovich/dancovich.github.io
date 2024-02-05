@@ -2232,6 +2232,18 @@ export function adicionarLista() {
       {
         'titulo': 'Borderline',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Fantasy Zone',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Monky Quest',
+        'descricao': 'Game Boy'
+      },
+      {
+        'titulo': 'Astro Marine Corps',
+        'descricao': 'Amiga'
       }
     ]
   });

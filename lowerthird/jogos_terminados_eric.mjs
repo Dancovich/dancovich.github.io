@@ -2244,6 +2244,10 @@ export function adicionarLista() {
       {
         'titulo': 'Astro Marine Corps',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Phoenix 3',
+        'descricao': '3DO'
       }
     ]
   });

@@ -2248,6 +2248,14 @@ export function adicionarLista() {
       {
         'titulo': 'Phoenix 3',
         'descricao': '3DO'
+      },
+      {
+        'titulo': 'Risky Woods',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Power Blade',
+        'descricao': 'Nintendo'
       }
     ]
   });

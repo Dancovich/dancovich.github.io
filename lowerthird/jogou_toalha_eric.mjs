@@ -152,6 +152,14 @@ export function adicionarLista() {
       {
         'titulo': 'Mad Dog McCree 2: The Lost Gold',
         'descricao': '3DO'
+      },
+      {
+        'titulo': 'Galaxy Force 2',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Galaxy Force 2',
+        'descricao': 'PlayStation 2'
       }
     ]
   });

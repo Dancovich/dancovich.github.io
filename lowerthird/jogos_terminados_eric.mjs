@@ -2256,6 +2256,10 @@ export function adicionarLista() {
       {
         'titulo': 'Power Blade',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Aliens: Neoplasma',
+        'descricao': 'ZX Spectrum Next'
       }
     ]
   });

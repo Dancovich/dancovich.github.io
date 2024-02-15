@@ -2260,6 +2260,10 @@ export function adicionarLista() {
       {
         'titulo': 'Aliens: Neoplasma',
         'descricao': 'ZX Spectrum Next'
+      },
+      {
+        'titulo': 'Devastator',
+        'descricao': 'Sega CD'
       }
     ]
   });

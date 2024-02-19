@@ -2264,6 +2264,10 @@ export function adicionarLista() {
       {
         'titulo': 'Devastator',
         'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Kishin Douji Zenki: Battle Raiden',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

@@ -2268,6 +2268,18 @@ export function adicionarLista() {
       {
         'titulo': 'Kishin Douji Zenki: Battle Raiden',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Border Down',
+        'descricao': 'Dreamcast'
+      },
+      {
+        'titulo': 'Sword Of Honour',
+        'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Bloody Wolf',
+        'descricao': 'PC Engine'
       }
     ]
   });

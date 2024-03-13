@@ -2280,6 +2280,10 @@ export function adicionarLista() {
       {
         'titulo': 'Bloody Wolf',
         'descricao': 'PC Engine'
+      },
+      {
+        'titulo': 'Maze Hunter 3D',
+        'descricao': 'Master System'
       }
     ]
   });

@@ -2284,6 +2284,18 @@ export function adicionarLista() {
       {
         'titulo': 'Maze Hunter 3D',
         'descricao': 'Master System'
+      },
+      {
+        'titulo': 'Indiana Jones Greatest Adventures',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Pitfall II: Lost Caverns',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Haunted House',
+        'descricao': 'Atari 2600'
       }
     ]
   });

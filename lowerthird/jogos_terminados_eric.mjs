@@ -2296,6 +2296,14 @@ export function adicionarLista() {
       {
         'titulo': 'Haunted House',
         'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'EDEN: A Genesis Through Time',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Arcus Odyssey',
+        'descricao': 'Mega Drive'
       }
     ]
   });

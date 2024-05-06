@@ -2304,6 +2304,14 @@ export function adicionarLista() {
       {
         'titulo': 'Arcus Odyssey',
         'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Soul Of The Beast',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'The Chaos Engine',
+        'descricao': 'Amiga'
       }
     ]
   });

@@ -2312,6 +2312,18 @@ export function adicionarLista() {
       {
         'titulo': 'The Chaos Engine',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Knife Edge',
+        'descricao': 'Nintendo 64'
+      },
+      {
+        'titulo': 'Star Seed',
+        'descricao': 'Game Boy Color'
+      },
+      {
+        'titulo': 'Star Seed 2',
+        'descricao': 'Game Boy Color'
       }
     ]
   });

@@ -2324,6 +2324,14 @@ export function adicionarLista() {
       {
         'titulo': 'Star Seed 2',
         'descricao': 'Game Boy Color'
+      },
+      {
+        'titulo': 'Time's Up',
+        'descricao': 'Neo Geo CD'
+      },
+      {
+        'titulo': 'Beholgar',
+        'descricao': 'PC'
       }
     ]
   });

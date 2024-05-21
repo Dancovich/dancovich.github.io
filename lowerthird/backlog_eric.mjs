@@ -1522,7 +1522,7 @@ export function adicionarLista() {
         'descricao': 'PlayStation 4'
       },
       {
-        'titulo': 'Clash Of The Demonhead',
+        'titulo': 'Clash At Demonhead',
         'descricao': 'Nintendo'
       },
       {

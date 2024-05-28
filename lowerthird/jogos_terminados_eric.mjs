@@ -415,7 +415,7 @@ export function adicionarLista() {
       },
       {
         'titulo': 'Kirby\'s Dream Land',
-        'descricao': 'Game Boy/GBC'
+        'descricao': 'Game Boy'
       },
       {
         'titulo': 'Ninja Five-O',

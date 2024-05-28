@@ -1422,7 +1422,7 @@ export function adicionarLista() {
         'descricao': 'Xbox 360'
       },
       {
-        'titulo': 'BioShock Infinit',
+        'titulo': 'BioShock Infinite',
         'descricao': 'Xbox 360'
       },
       {
@@ -2326,7 +2326,7 @@ export function adicionarLista() {
         'descricao': 'Game Boy Color'
       },
       {
-        'titulo': 'Time's Up',
+        'titulo': 'Time\'s Up',
         'descricao': 'Neo Geo CD'
       },
       {

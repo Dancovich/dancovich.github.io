@@ -280,6 +280,150 @@ export function adicionarLista() {
       {
         'titulo': 'Tunic',
         'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Yakuza',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Yakuza 2',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Yakuza: Like a Dragon',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Yakuza: Infinite Wealth',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Like a Dragon Gaiden: The Man Who Erased His Name',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Monster Hunter World',
+        'descricao': 'Xbox One X'
+      },
+      {
+        'titulo': 'Monster Hunter World: Iceborne',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Monster Hunter Rise',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Forza Horizon 2',
+        'descricao': 'Xbox One'
+      },
+      {
+        'titulo': 'Forza Horizon 3',
+        'descricao': 'Xbox One'
+      },
+      {
+        'titulo': 'Forza Horizon 4',
+        'descricao': 'Xbox One X'
+      },
+      {
+        'titulo': 'Forza Horizon 5',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Forza Motorsports 5',
+        'descricao': 'Xbox One'
+      },
+      {
+        'titulo': 'Forza Motorsports 6',
+        'descricao': 'Xbox One'
+      },
+      {
+        'titulo': 'Forza Motorsports 7',
+        'descricao': 'Xbox One X'
+      },
+      {
+        'titulo': 'Too Human',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Bionic Commando Rearmed',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Burnout Paradise',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Braid',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'R-Type Dimensions',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Prince of Persia Classic',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Street Fighter 2',
+        'descricao': 'SNES'
+      },
+      {
+        'titulo': 'Street Fighter Alpha',
+        'descricao': 'PSOne'
+      },
+      {
+        'titulo': 'Street Fighter Alpha 2',
+        'descricao': 'PSOne'
+      },
+      {
+        'titulo': 'Street Fighter Alpha 3',
+        'descricao': 'PSOne'
+      },
+      {
+        'titulo': 'Street Fighter 4',
+        'descricao': 'Xbox 360'
+      },
+      {
+        'titulo': 'Street Fighter 5',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Street Fighter 6',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'The King of Fighters 94',
+        'descricao': 'Neo Geo'
+      },
+      {
+        'titulo': 'The King of Fighters 95',
+        'descricao': 'Neo Geo'
+      },
+      {
+        'titulo': 'The King of Fighters 96',
+        'descricao': 'Neo Geo'
+      },
+      {
+        'titulo': 'The King of Fighters 97',
+        'descricao': 'Neo Geo'
+      },
+      {
+        'titulo': 'The King of Fighters 98',
+        'descricao': 'Neo Geo'
+      },
+      {
+        'titulo': 'The King of Fighters 99',
+        'descricao': 'Neo Geo'
+      },
+      {
+        'titulo': 'Nier Replicant',
+        'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'Nier Automata',
+        'descricao': 'Xbox Series X'
       }
     ]
   });

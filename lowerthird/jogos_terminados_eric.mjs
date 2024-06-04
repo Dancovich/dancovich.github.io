@@ -2332,6 +2332,14 @@ export function adicionarLista() {
       {
         'titulo': 'Beholgar',
         'descricao': 'PC'
+      },
+      {
+        'titulo': 'Clash At Demonhead',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Ozzy The Goo Slime Quest',
+        'descricao': 'Atari 2600'
       }
     ]
   });

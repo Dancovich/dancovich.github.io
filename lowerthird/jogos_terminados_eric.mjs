@@ -2340,6 +2340,10 @@ export function adicionarLista() {
       {
         'titulo': 'Ozzy The Goo Slime Quest',
         'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Prince Of Persia The Sands Of Time',
+        'descricao': 'PlayStation 3'
       }
     ]
   });

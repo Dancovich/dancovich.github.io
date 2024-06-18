@@ -2344,6 +2344,14 @@ export function adicionarLista() {
       {
         'titulo': 'Prince Of Persia The Sands Of Time',
         'descricao': 'PlayStation 3'
+      },
+      {
+        'titulo': 'Goof Troop',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Dark Angel',
+        'descricao': 'Amiga'
       }
     ]
   });

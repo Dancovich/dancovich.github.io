@@ -2352,6 +2352,10 @@ export function adicionarLista() {
       {
         'titulo': 'Dark Angel',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Devilish The Next Possession',
+        'descricao': 'Mega Drive'
       }
     ]
   });

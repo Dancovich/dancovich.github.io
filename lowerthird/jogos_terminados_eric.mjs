@@ -2356,7 +2356,27 @@ export function adicionarLista() {
       {
         'titulo': 'Devilish The Next Possession',
         'descricao': 'Mega Drive'
-      }
+      },
+      {
+        'titulo': 'Antarctic Adventure',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Kirby Epic Yarn',
+        'descricao': 'Wii'
+      },
+      {
+        'titulo': 'Antarctic Adventure',
+        'descricao': 'MSX'
+      },
+      {
+        'titulo': 'Space Harrier',
+        'descricao': '32X'
+      },
+      {
+        'titulo': 'Space Harrier',
+        'descricao': 'Saturn'
+      },
     ]
   });
 }

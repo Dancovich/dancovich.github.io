@@ -114,6 +114,14 @@ export function adicionarLista() {
       {
         'titulo': 'Tome cuidado quando for colar na traseira de algum carro pois uma colisão nunca é bem-vinda',
         'descricao': 'Super GamePower Nº 72'
+      },
+      {
+        'titulo': 'Fique ligado nesta manha: no Versus Mode, mantenha os adversários no canto e desfira socus, chutes etc.',
+        'descricao': 'Ação Games Nº 40'
+      },
+      {
+        'titulo': 'Pegue a bandagem na cesta de lixo.',
+        'descricao': 'Super Game Power Nº 21'
       }
     ]
   });

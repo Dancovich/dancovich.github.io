@@ -424,6 +424,38 @@ export function adicionarLista() {
       {
         'titulo': 'Nier Automata',
         'descricao': 'Xbox Series X'
+      },
+      {
+        'titulo': 'The Legend of Zelda: Ocarina of Time',
+        'descricao': 'Nintendo 3DS'
+      },
+      {
+        'titulo': 'The Legend of Zelda: Majora\'s Mask',
+        'descricao': 'Nintendo 3DS'
+      },
+      {
+        'titulo': 'The Legend of Zelda: A Link to the Past',
+        'descricao': 'SNES'
+      },
+      {
+        'titulo': 'The Legend of Zelda: A Link between Worlds',
+        'descricao': 'Nintendo 3DS'
+      },
+      {
+        'titulo': 'The Legend of Zelda: The Minish Cap',
+        'descricao': 'Nintendo DS'
+      },
+      {
+        'titulo': 'The Legend of Zelda: Ocarina of Time',
+        'descricao': 'Nintendo 3DS'
+      },
+      {
+        'titulo': 'Castlevania: Order of Ecclesia',
+        'descricao': 'Nintendo DS'
+      },
+      {
+        'titulo': 'Golden Sun',
+        'descricao': 'Gameboy Advance'
       }
     ]
   });

@@ -2377,6 +2377,10 @@ export function adicionarLista() {
         'titulo': 'Space Harrier',
         'descricao': 'Saturn'
       },
+      {
+        'titulo': 'Entity',
+        'descricao': 'Amiga'
+      },
     ]
   });
 }

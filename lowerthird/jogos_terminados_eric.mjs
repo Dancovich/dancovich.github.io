@@ -2381,6 +2381,10 @@ export function adicionarLista() {
         'titulo': 'Entity',
         'descricao': 'Amiga'
       },
+      {
+        'titulo': 'The Adventures Of Lomax',
+        'descricao': 'PlayStation'
+      },
     ]
   });
 }

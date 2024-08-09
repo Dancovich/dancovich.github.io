@@ -2,28 +2,30 @@
 <html lang="pt-BR">
 
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport"
-        content="width=device-width,initial-scale=1" />
-    <meta name="theme-color"
-        content="#000000" />
-    <meta name="description"
-        content="Lower third OBS Browser Source" />
-    <title>Lower Third</title>
-    <script src="/lowerthird/config.js"></script>
-    <script>var jsonFiles = []; function pushFile(s) { jsonFiles.push(s) }</script>
-    <script type="module"
-        src="/lowerthird/master_list_eric.mjs"></script>
-    <script type="module"
-        src="/lowerthird/master_list_danilo.mjs"></script>
-    <script defer="defer"
-        src="/lowerthird/static/js/main.e0b2c2a4.js"></script>
-    <link href="/lowerthird/static/css/main.123961ae.css"
-        rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0" />
+  <title>Lower third</title>
+
+  <script src="/config.js"></script>
+
+  <script>
+    var jsonFiles = [];
+    function pushFile(json) {
+      jsonFiles.push(json);
+    }
+  </script>
+
+  <script type="module"
+    src="/master_list_eric.mjs"></script>
+  <script type="module"
+    src="/master_list_danilo.mjs"></script>
+  <script type="module" crossorigin src="/assets/index-Bath3sMT.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CMqpAemw.css">
 </head>
 
-<body><noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+<body>
+  <div id="root"></div>
 </body>
 
 </html>

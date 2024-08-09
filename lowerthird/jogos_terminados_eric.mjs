@@ -2385,6 +2385,10 @@ export function adicionarLista() {
         'titulo': 'The Adventures Of Lomax',
         'descricao': 'PlayStation'
       },
+      {
+        'titulo': 'Golden Axe',
+        'descricao': 'PC Engine CD'
+      },
     ]
   });
 }

@@ -22,7 +22,7 @@ import { adicionarLista as adicionarContadorBarata } from './contador_barata.mjs
 import { adicionarLista as adicionarContadorCachoeira } from './contador_cachoeira.mjs';
 import { adicionarLista as adicionarContadorEd209 } from './contador_ed209.mjs';
 import { adicionarLista as adicionarContadorEngrish } from './contador_engrish.mjs';
-import { adicionarLista as adicionarContadorGigger } from './contador_gigger.mjs';
+import { adicionarLista as adicionarContadorGigger } from './contador_giger.mjs';
 import { adicionarLista as adicionarContadorKubrick } from './contador_kubrick.mjs';
 import { adicionarLista as adicionarContadorMimic } from './contador_mimic.mjs';
 import { adicionarLista as adicionarContadorMode7 } from './contador_mode7.mjs';

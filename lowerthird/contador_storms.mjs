@@ -1,6 +1,6 @@
 export function adicionarLista() {
     window.pushFile({
-        'tipo': 'CONTADOR STORMS',
+        'tipo': 'CONTADOR RELÂMPAGOS',
         'jogador': 'Eric',
         'dados': [
             {

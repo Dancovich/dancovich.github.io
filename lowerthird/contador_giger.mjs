@@ -1,6 +1,6 @@
 export function adicionarLista() {
     window.pushFile({
-        'tipo': 'CONTADOR H. R. GIGGER',
+        'tipo': 'CONTADOR H. R. GIGER',
         'jogador': 'Eric',
         'dados': [
             {

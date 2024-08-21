@@ -2389,6 +2389,10 @@ export function adicionarLista() {
         'titulo': 'Golden Axe',
         'descricao': 'PC Engine CD'
       },
+      {
+        'titulo': 'Kabuki Quantum Fighter',
+        'descricao': 'Nintendo'
+      },
     ]
   });
 }

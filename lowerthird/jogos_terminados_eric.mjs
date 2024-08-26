@@ -2393,6 +2393,10 @@ export function adicionarLista() {
         'titulo': 'Kabuki Quantum Fighter',
         'descricao': 'Nintendo'
       },
+      {
+        'titulo': 'Fantasy Zone The Maze',
+        'descricao': 'Master System'
+      },
     ]
   });
 }

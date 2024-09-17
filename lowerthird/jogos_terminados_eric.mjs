@@ -2397,6 +2397,14 @@ export function adicionarLista() {
         'titulo': 'Fantasy Zone The Maze',
         'descricao': 'Master System'
       },
+      {
+        'titulo': 'Forgotten Worlds',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'The Simpsons',
+        'descricao': 'Arcade'
+      }
     ]
   });
 }

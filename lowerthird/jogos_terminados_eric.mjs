@@ -2404,6 +2404,14 @@ export function adicionarLista() {
       {
         'titulo': 'The Simpsons',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Devil Crash',
+        'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Super Dimension Fortress Macross Scrambled Valkyrie',
+        'descricao': 'Super Nintendo'
       }
     ]
   });

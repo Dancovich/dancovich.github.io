@@ -2412,6 +2412,10 @@ export function adicionarLista() {
       {
         'titulo': 'Super Dimension Fortress Macross Scrambled Valkyrie',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Sly Spy',
+        'descricao': 'Arcade'
       }
     ]
   });

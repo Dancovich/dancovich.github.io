@@ -4,7 +4,7 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Gaia Crusader - Arcade',
+                'titulo': 'Gaia Crusader (Arcade)',
                 'descricao': 'Nome do próprio jogo errado no final'
             }
         ]

@@ -4,8 +4,8 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Lorem Ipsum',
-                'descricao': 'No local Lorem Ipsum'
+                'titulo': 'Gaia Crusader (PS1)',
+                'descricao': 'Nome do próprio jogo errado no final'
             }
         ]
     });

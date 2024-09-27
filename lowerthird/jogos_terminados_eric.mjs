@@ -2416,6 +2416,10 @@ export function adicionarLista() {
       {
         'titulo': 'Sly Spy',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Jinmu Denshou',
+        'descricao': 'PC Engine'
       }
     ]
   });

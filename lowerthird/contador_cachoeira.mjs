@@ -4,15 +4,15 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Legendary Axe 2 - PC Engine',
+                'titulo': 'Legendary Axe 2 (PC Engine)',
                 'descricao': 'Cachoeira 60 na 2ª fase'
             },
             {
-                'titulo': 'P.O.W. - Arcade',
+                'titulo': 'P.O.W. (Arcade)',
                 'descricao': 'Cachoeira 60 onde tem cachoeira'
             },
             {
-                'titulo': 'Cedric and the Lost Sceptre - Amiga',
+                'titulo': 'Cedric and the Lost Sceptre (Amiga)',
                 'descricao': 'Cachoeira 50 na 1ª fase'
             }
         ]

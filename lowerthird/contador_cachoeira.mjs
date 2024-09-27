@@ -14,6 +14,10 @@ export function adicionarLista() {
             {
                 'titulo': 'Cedric and the Lost Sceptre (Amiga)',
                 'descricao': 'Cachoeira 50 na 1ª fase'
+            },
+            {
+                'titulo': 'Pitfall The Mayan Adventure (Super NES)',
+                'descricao': 'Cachoeira 60 na 2ª fase'
             }
         ]
     });

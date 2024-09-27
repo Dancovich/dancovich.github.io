@@ -4,8 +4,16 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Lorem Ipsum',
-                'descricao': 'No local Lorem Ipsum'
+                'titulo': 'Metal Black (Saturn)',
+                'descricao': 'fase final, macaco e reflexão sobre o tempo e universo'
+            },
+            {
+                'titulo': 'Rez (Dreamcast)',
+                'descricao': 'Final com psicodelia 2001'
+            },
+            {
+                'titulo': 'Macross Scrambled Valkyrie (Super NES)',
+                'descricao': '2ª forma do último chefe'
             }
         ]
     });

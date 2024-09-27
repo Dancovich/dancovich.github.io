@@ -9,7 +9,7 @@ export function adicionarLista() {
             },
             {
                 'titulo': 'Dark Angel - Amiga',
-                'descricao': 'Vespa robô gigante no fundo  da 1ª fase'
+                'descricao': 'Vespa robô gigante no fundo da 1ª fase'
             },
             {
                 'titulo': 'Agony - Amiga',

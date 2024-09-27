@@ -22,6 +22,14 @@ export function adicionarLista() {
             {
                 'titulo': 'Entity (Amiga)',
                 'descricao': 'Vespa na 2ª fase'
+            },
+            {
+                'titulo': 'Elvira The Arcade Game (Amiga)',
+                'descricao': ' Inimigos na primeira fase'
+            },
+            {
+                'titulo': 'Venus The Flytrap (Amiga)',
+                'descricao': 'Inimigos nas fases bônus'
             }
         ]
     });

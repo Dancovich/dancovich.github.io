@@ -1,6 +1,6 @@
 export function adicionarLista() {
     window.pushFile({
-        'tipo': 'CONTADOR CACHOEIRA 60 FPS',
+        'tipo': 'CONTADOR CACHOEIRA 60FPS',
         'jogador': 'Eric',
         'dados': [
             {

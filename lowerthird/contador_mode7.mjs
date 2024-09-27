@@ -54,6 +54,14 @@ export function adicionarLista() {
             {
                 'titulo': 'Macross Scrambled Valkyrie (Super NES)',
                 'descricao': 'Escala e rotação desde abertura até o fim'
+            },
+            {
+                'titulo': 'F-Zero (Super NES)',
+                'descricao': 'Escala na pista'
+            },
+            {
+                'titulo': 'Chrono Trigger (Super NES)',
+                'descricao': 'Corrida de veículos no futuro'
             }
         ]
     });

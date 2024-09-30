@@ -4,12 +4,16 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Altered Beast - Mega Drive',
+                'titulo': 'Altered Beast (Mega Drive)',
                 'descricao': 'Abertura, 2ª fase e mais'
             },
             {
-                'titulo': 'Indiana Jones Greatest Adventures - Super NES',
+                'titulo': 'Indiana Jones Greatest Adventures (Super NES)',
                 'descricao': 'Tímpano na "Well Of Souls" perto da arca'
+            },
+            {
+                'titulo': 'Sonic The Hedgehog (Mega Drive)',
+                'descricao': 'Tímpano na música do chefe'
             }
         ]
     });

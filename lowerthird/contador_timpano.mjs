@@ -14,6 +14,10 @@ export function adicionarLista() {
             {
                 'titulo': 'Sonic The Hedgehog (Mega Drive)',
                 'descricao': 'Tímpano na música do chefe'
+            },
+            {
+                'titulo': 'Incredible Crisis (PS1)',
+                'descricao': 'Créditos depois da introdução'
             }
         ]
     });

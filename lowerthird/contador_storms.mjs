@@ -4,8 +4,8 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Lorem Ipsum',
-                'descricao': 'No local Lorem Ipsum'
+                'titulo': 'Zenki Battle Raiden (Super NES)',
+                'descricao': 'Relâmpagos 60 FPS na última fase'
             }
         ]
     });

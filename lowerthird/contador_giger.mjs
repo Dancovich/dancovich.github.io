@@ -4,7 +4,7 @@ export function adicionarLista() {
         'jogador': 'Eric',
         'dados': [
             {
-                'titulo': 'Cyber-Cop *Mega Drive)',
+                'titulo': 'Cyber-Cop (Mega Drive)',
                 'descricao': 'Embrião subnível 3'
             },
             {
@@ -118,6 +118,10 @@ export function adicionarLista() {
             {
                 'titulo': 'Septerra Core (PC)',
                 'descricao': 'Os Underlost raça do personagem Badu'
+            },
+            {
+                'titulo': 'Zero Wing (Mega Drive)',
+                'descricao': 'Cenário e inimigos na 7ª fase'
             }
         ]
     });

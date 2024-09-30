@@ -62,6 +62,54 @@ export function adicionarLista() {
             {
                 'titulo': 'Chrono Trigger (Super NES)',
                 'descricao': 'Corrida de veículos no futuro'
+            },
+            {
+                'titulo': 'ActRaiser  (Super NES)',
+                'descricao': 'Transição de Sky Palace para as fases'
+            },
+            {
+                'titulo': 'Astal (Saturn)',
+                'descricao': 'Pilares na 1ª fase escalonam'
+            },
+            {
+                'titulo': 'Cameltry (Super NES)',
+                'descricao': 'Rotação no título e cenário'
+            },
+            {
+                'titulo': 'Secret Of Mana (Super NES)',
+                'descricao': 'Tela do mapa'
+            },
+            {
+                'titulo': 'Final Fantasy IV (Super NES)',
+                'descricao': 'Tela do mapa'
+            },
+            {
+                'titulo': 'Final Fantasy V (Super NES)',
+                'descricao': 'Tela do mapa'
+            },
+            {
+                'titulo': 'Final Fantasy VI (Super NES)',
+                'descricao': 'Tela do mapa'
+            },
+            {
+                'titulo': 'Soukyugurentai Okuyo (Saturn)',
+                'descricao': 'Chefe 5ª fase roda antes de morrer'
+            },
+            {
+                'titulo': 'Star Ocean (Super NES)',
+                'descricao': 'Naves da introdução'
+            },
+            {
+                'titulo': 'Sonic CD (Sega CD)',
+                'descricao': 'Fase de bônus'
+            },
+            {
+                'titulo': 'Aero The Acrobat 2 (Super NES)',
+                'descricao': 'Fase de bônus'
+            },
+            {
+                'titulo': 'Sky Blazer (Super NES)',
+                'descricao': 'Chefe do olho rotaciona e escala, e mais'
             }
         ]
     });

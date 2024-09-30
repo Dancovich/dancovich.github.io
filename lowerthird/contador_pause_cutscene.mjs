@@ -18,6 +18,10 @@ export function adicionarLista() {
             {
                 'titulo': 'Chips Challenge (Atari Lynx)',
                 'descricao': 'Pausa nos créditos da intro'
+            },
+            {
+                'titulo': 'Kingdom Hearts II (PS2)',
+                'descricao': 'Pausa nas cutscenes'
             }
         ]
     });

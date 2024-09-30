@@ -110,6 +110,10 @@ export function adicionarLista() {
             {
                 'titulo': 'Sky Blazer (Super NES)',
                 'descricao': 'Chefe do olho rotaciona e escala, e mais'
+            },
+            {
+                'titulo': 'Demons Crest (Super NES)',
+                'descricao': 'Escala na tela do mapa'
             }
         ]
     });

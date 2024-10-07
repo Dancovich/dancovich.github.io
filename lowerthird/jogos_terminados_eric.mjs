@@ -2420,6 +2420,10 @@ export function adicionarLista() {
       {
         'titulo': 'Jinmu Denshou',
         'descricao': 'PC Engine'
+      },
+      {
+        'titulo': 'Rail Heist (UFO 50)',
+        'descricao': 'PC'
       }
     ]
   });

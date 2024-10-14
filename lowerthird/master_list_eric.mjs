@@ -42,8 +42,6 @@ adicionarTerminadosEric();
 adicionarTerminadosEric();
 adicionarJogouToalhaEric();
 adicionarJogouToalhaEric();
-adicionarJogouToalhaEric();
-adicionarBacklogEric();
 adicionarBacklogEric();
 adicionarBacklogEric();
 adicionarDicasDaRevista();

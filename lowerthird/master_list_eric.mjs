@@ -34,6 +34,14 @@ import { adicionarLista as adicionarTerminadosEric } from './jogos_terminados_er
 import { adicionarLista as adicionarJogouToalhaEric } from './jogou_toalha_eric.mjs';
 
 adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarJogouToalhaEric();
+adicionarJogouToalhaEric();
 adicionarJogouToalhaEric();
 adicionarBacklogEric();
 adicionarBacklogEric();

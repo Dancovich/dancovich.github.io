@@ -2424,6 +2424,10 @@ export function adicionarLista() {
       {
         'titulo': 'Rail Heist (UFO 50)',
         'descricao': 'PC'
+      },
+      {
+        'titulo': 'Cyber Owls (UFO 50)',
+        'descricao': 'PC'
       }
     ]
   });

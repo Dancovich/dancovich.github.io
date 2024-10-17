@@ -2428,6 +2428,10 @@ export function adicionarLista() {
       {
         'titulo': 'Cyber Owls (UFO 50)',
         'descricao': 'PC'
+      },
+      {
+        'titulo': 'Double Or Nothing',
+        'descricao': 'Commodore 64'
       }
     ]
   });

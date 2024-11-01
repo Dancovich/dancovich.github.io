@@ -2432,6 +2432,10 @@ export function adicionarLista() {
       {
         'titulo': 'Double Or Nothing',
         'descricao': 'Commodore 64'
+      },
+      {
+        'titulo': 'MoonShadow',
+        'descricao': 'Commodore 64'
       }
     ]
   });

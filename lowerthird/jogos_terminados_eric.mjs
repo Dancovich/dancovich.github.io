@@ -2436,6 +2436,10 @@ export function adicionarLista() {
       {
         'titulo': 'MoonShadow',
         'descricao': 'Commodore 64'
+      },
+      {
+        'titulo': 'Plyuk',
+        'descricao': 'Nintendo'
       }
     ]
   });

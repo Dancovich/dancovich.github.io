@@ -2440,6 +2440,18 @@ export function adicionarLista() {
       {
         'titulo': 'Plyuk',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Golden Axe - Sega Arcade Classics Collection',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Streets Of Rage - Sega Arcade Classics Collection',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'The Revenge Of Shinobi - Sega Arcade Classics Collection',
+        'descricao': 'Sega CD'
       }
     ]
   });

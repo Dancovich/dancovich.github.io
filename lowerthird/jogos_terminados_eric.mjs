@@ -2452,6 +2452,14 @@ export function adicionarLista() {
       {
         'titulo': 'The Revenge Of Shinobi - Sega Arcade Classics Collection',
         'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Shadow Of The Beast II',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Jungle Hunt',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -2460,7 +2460,16 @@ export function adicionarLista() {
       {
         'titulo': 'Jungle Hunt',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Jungle Hunt',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Operation Logic Bomb',
+        'descricao': 'Super Nintendo'
       }
+
     ]
   });
 }

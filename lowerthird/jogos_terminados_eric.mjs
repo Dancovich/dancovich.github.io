@@ -2468,8 +2468,35 @@ export function adicionarLista() {
       {
         'titulo': 'Operation Logic Bomb',
         'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'Kangaroo',
+        'descricao': 'Atari 2600'
+      },
+      {
+        'titulo': 'Zen Intergalactic Ninja',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Return Of The Ninja',
+        'descricao': 'Game Boy Color'
+      },
+      {
+        'titulo': 'The Astyanax',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Blade Master',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Vendetta',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'SAR Search And Rescue',
+        'descricao': 'Arcade'
       }
-
     ]
   });
 }

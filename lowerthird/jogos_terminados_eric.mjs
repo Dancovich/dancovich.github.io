@@ -2496,7 +2496,11 @@ export function adicionarLista() {
       {
         'titulo': 'SAR Search And Rescue',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Gotzendiener',
+        'descricao': 'PC Engine CD'
       }
     ]
   });
-}
+} 

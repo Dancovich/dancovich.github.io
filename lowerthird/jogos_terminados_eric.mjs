@@ -2500,6 +2500,14 @@ export function adicionarLista() {
       {
         'titulo': 'Gotzendiener',
         'descricao': 'PC Engine CD'
+      },
+      {
+        'titulo': 'Battle Mobile',
+        'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Waldorf Journey (UFO 50)',
+        'descricao': 'Sega CD'
       }
     ]
   });

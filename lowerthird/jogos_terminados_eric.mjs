@@ -2503,10 +2503,14 @@ export function adicionarLista() {
       },
       {
         'titulo': 'Battle Mobile',
-        'descricao': 'Sega CD'
+        'descricao': 'Super Nintendo'
       },
       {
         'titulo': 'Waldorf Journey (UFO 50)',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Silpheed',
         'descricao': 'Sega CD'
       }
     ]

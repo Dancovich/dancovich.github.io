@@ -2512,6 +2512,10 @@ export function adicionarLista() {
       {
         'titulo': 'Silpheed',
         'descricao': 'Sega CD'
+      },
+      {
+        'titulo': 'Shadow Dancer',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -2516,6 +2516,18 @@ export function adicionarLista() {
       {
         'titulo': 'Shadow Dancer',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Hagane',
+        'descricao': 'Super Nintendo'
+      },
+      {
+        'titulo': 'X-Men',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Sorcer Striker',
+        'descricao': 'Arcade'
       }
     ]
   });

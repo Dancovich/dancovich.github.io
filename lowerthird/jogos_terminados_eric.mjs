@@ -2528,6 +2528,14 @@ export function adicionarLista() {
       {
         'titulo': 'Sorcer Striker',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Game Tengoku The Game Paradise',
+        'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Night Striker S',
+        'descricao': 'Saturn'
       }
     ]
   });

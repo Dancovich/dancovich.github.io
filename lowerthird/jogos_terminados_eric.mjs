@@ -2536,6 +2536,10 @@ export function adicionarLista() {
       {
         'titulo': 'Night Striker S',
         'descricao': 'Saturn'
+      },
+      {
+        'titulo': 'Splatterhouse',
+        'descricao': 'Arcade'
       }
     ]
   });

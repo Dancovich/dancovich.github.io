@@ -2540,6 +2540,10 @@ export function adicionarLista() {
       {
         'titulo': 'Splatterhouse',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Another World',
+        'descricao': 'Commodore 64'
       }
     ]
   });

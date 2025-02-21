@@ -2542,8 +2542,8 @@ export function adicionarLista() {
         'descricao': 'Arcade'
       },
       {
-        'titulo': 'Another World',
-        'descricao': 'Commodore 64'
+        'titulo': 'Darwin 4081',
+        'descricao': 'Mega Drive'
       }
     ]
   });

@@ -2544,6 +2544,10 @@ export function adicionarLista() {
       {
         'titulo': 'Darwin 4081',
         'descricao': 'Mega Drive'
+      },
+      {
+        'titulo': 'Rubicon',
+        'descricao': 'Amiga'
       }
     ]
   });

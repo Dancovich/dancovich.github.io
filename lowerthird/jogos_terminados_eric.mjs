@@ -2548,6 +2548,30 @@ export function adicionarLista() {
       {
         'titulo': 'Rubicon',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Ghost Battle',
+        'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'The Combatribes',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Vigilante',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Wild Fang',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Carrion',
+        'descricao': 'PlayStation 4'
+      },
+      {
+        'titulo': 'Another World',
+        'descricao': 'Commodore 64'
       }
     ]
   });

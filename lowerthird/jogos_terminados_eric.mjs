@@ -2572,6 +2572,14 @@ export function adicionarLista() {
       {
         'titulo': 'Another World',
         'descricao': 'Commodore 64'
+      },
+      {
+        'titulo': 'Pyramidon',
+        'descricao': 'Commodore 64'
+      },
+      {
+        'titulo': 'Karateka',
+        'descricao': 'Nintendo'
       }
     ]
   });

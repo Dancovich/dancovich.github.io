@@ -2580,6 +2580,14 @@ export function adicionarLista() {
       {
         'titulo': 'Karateka',
         'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'Top Hunter',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Metal Slug',
+        'descricao': 'Neo Geo AES'
       }
     ]
   });

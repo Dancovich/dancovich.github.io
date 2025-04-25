@@ -2588,6 +2588,14 @@ export function adicionarLista() {
       {
         'titulo': 'Metal Slug',
         'descricao': 'Neo Geo AES'
+      },
+      {
+        'titulo': 'Metal Slug 2',
+        'descricao': 'Neo Geo AES'
+      },
+      {
+        'titulo': 'Time Fighter',
+        'descricao': 'Commodore 64'
       }
     ]
   });

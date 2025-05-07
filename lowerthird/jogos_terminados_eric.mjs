@@ -134,6 +134,10 @@ export function adicionarLista() {
         'descricao': 'Master System'
       },
       {
+        'titulo': 'Ultima IV',
+        'descricao': 'Master System'
+      },
+      {
         'titulo': 'Black Belt',
         'descricao': 'Master System'
       },
@@ -2596,6 +2600,14 @@ export function adicionarLista() {
       {
         'titulo': 'Time Fighter',
         'descricao': 'Commodore 64'
+      },
+      {
+        'titulo': 'Abathor',
+        'descricao': 'Nintendo Switch'
+      },
+      {
+        'titulo': 'GunForce',
+        'descricao': 'Arcade'
       }
     ]
   });

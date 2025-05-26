@@ -2608,6 +2608,14 @@ export function adicionarLista() {
       {
         'titulo': 'GunForce',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Chouyoku Senki Estique',
+        'descricao': 'Nintendo'
+      },
+      {
+        'titulo': 'What If OutRun',
+        'descricao': 'Game Boy Color'
       }
     ]
   });

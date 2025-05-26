@@ -40,13 +40,13 @@ adicionarTerminadosEric();
 adicionarTerminadosEric();
 adicionarTerminadosEric();
 adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
+adicionarTerminadosEric();
 adicionarJogouToalhaEric();
 adicionarJogouToalhaEric();
 adicionarBacklogEric();
 adicionarBacklogEric();
-adicionarDicasDaRevista();
-adicionarDicasDaRevista();
-adicionarDicasDaRevista();
 adicionarDicasDaRevista();
 adicionarDicasDaRevista();
 

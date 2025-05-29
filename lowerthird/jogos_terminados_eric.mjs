@@ -2616,6 +2616,14 @@ export function adicionarLista() {
       {
         'titulo': 'What If OutRun',
         'descricao': 'Game Boy Color'
+      },
+      {
+        'titulo': 'Black Jewel',
+        'descricao': 'PC'
+      },
+      {
+        'titulo': 'Mercs',
+        'descricao': 'Arcade'
       }
     ]
   });

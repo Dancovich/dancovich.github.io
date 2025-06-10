@@ -2624,6 +2624,18 @@ export function adicionarLista() {
       {
         'titulo': 'Mercs',
         'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'R-Type Dimensions - R-Type [Infinite Mode]',
+        'descricao': 'PlayStation 3'
+      },
+      {
+        'titulo': 'R-Type Dimensions - R-Type 2 [Infinite Mode]',
+        'descricao': 'PlayStation 3'
+      },
+      {
+        'titulo': 'CyberPunks',
+        'descricao': 'Amiga'
       }
     ]
   });

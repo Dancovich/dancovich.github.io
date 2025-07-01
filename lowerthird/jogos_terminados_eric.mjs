@@ -2636,6 +2636,10 @@ export function adicionarLista() {
       {
         'titulo': 'CyberPunks',
         'descricao': 'Amiga'
+      },
+      {
+        'titulo': 'Soldner-X: Himmelssturmer',
+        'descricao': 'PlayStation 3'
       }
     ]
   });

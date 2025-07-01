@@ -2643,6 +2643,9 @@ export function adicionarLista() {
       {
         'titulo': 'Decathlon',
         'descricao': 'Atari 2600'
+      {
+        'titulo': 'Starmaster',
+        'descricao': 'Atari 2600'
       }
     ]
   });

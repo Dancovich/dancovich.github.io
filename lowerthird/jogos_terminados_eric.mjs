@@ -2640,6 +2640,9 @@ export function adicionarLista() {
       {
         'titulo': 'Soldner-X: Himmelssturmer',
         'descricao': 'PlayStation 3'
+      {
+        'titulo': 'Decathlon',
+        'descricao': 'Atari 2600'
       }
     ]
   });

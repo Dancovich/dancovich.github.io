@@ -2646,6 +2646,9 @@ export function adicionarLista() {
       {
         'titulo': 'Starmaster',
         'descricao': 'Atari 2600'
+      {
+        'titulo': 'Sky Jinks',
+        'descricao': 'Atari 2600'
       }
     ]
   });

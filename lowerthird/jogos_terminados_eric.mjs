@@ -2638,17 +2638,36 @@ export function adicionarLista() {
         'descricao': 'Amiga'
       },
       {
-        'titulo': 'Soldner-X: Himmelssturmer',
+        'titulo': 'Soldner-X Himmelssturmer',
         'descricao': 'PlayStation 3'
-      {
+       },
+       {
         'titulo': 'Decathlon',
         'descricao': 'Atari 2600'
-      {
+       },
+       {
         'titulo': 'Starmaster',
         'descricao': 'Atari 2600'
-      {
+       },
+       {
         'titulo': 'Sky Jinks',
         'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Smurf Rescue In Gargamel Castle',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Moon Crystal',
+        'descricao': 'Nintendo'
+       },
+       {
+        'titulo': 'Kroghar',
+        'descricao': 'Amiga'
+       },
+       {
+        'titulo': 'Teenage Mutant Ninja Turtles',
+        'descricao': 'Arcade'
       }
     ]
   });

@@ -2668,6 +2668,14 @@ export function adicionarLista() {
        {
         'titulo': 'Teenage Mutant Ninja Turtles',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Katana Soul',
+        'descricao': 'PC'
+       },
+       {
+        'titulo': 'Jixa Lady Tiger',
+        'descricao': 'PC'
       }
     ]
   });

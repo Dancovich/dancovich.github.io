@@ -2676,7 +2676,12 @@ export function adicionarLista() {
        {
         'titulo': 'Jixa Lady Tiger',
         'descricao': 'PC'
+       },
+       {
+        'titulo': 'Mercs [Arcade e Original]',
+        'descricao': 'Mega Drive'
       }
+
     ]
   });
 } 

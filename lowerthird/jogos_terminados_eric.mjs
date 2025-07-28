@@ -2680,8 +2680,11 @@ export function adicionarLista() {
        {
         'titulo': 'Mercs [Arcade e Original]',
         'descricao': 'Mega Drive'
+       },
+       {
+        'titulo': 'Air Lock',
+        'descricao': 'Atari 2600'
       }
-
     ]
   });
 } 

@@ -2684,6 +2684,18 @@ export function adicionarLista() {
        {
         'titulo': 'Air Lock',
         'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Earthion',
+        'descricao': 'Mega Drive'
+       },
+       {
+        'titulo': 'Thunder Fox',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Thunder Fox',
+        'descricao': 'Mega Drive'
       }
     ]
   });

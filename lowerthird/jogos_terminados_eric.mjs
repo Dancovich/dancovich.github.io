@@ -2696,7 +2696,19 @@ export function adicionarLista() {
        {
         'titulo': 'Thunder Fox',
         'descricao': 'Mega Drive'
-      }
+       },
+       {
+        'titulo': 'Magic Sword',
+        'descricao': 'Super Nintendo'
+       },
+       {
+        'titulo': 'Tarzan',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Tarzan',
+        'descricao': 'ColecoVision'
+       }
     ]
   });
 } 

@@ -2708,6 +2708,10 @@ export function adicionarLista() {
        {
         'titulo': 'Tarzan',
         'descricao': 'ColecoVision'
+       },
+       {
+        'titulo': 'Growl',
+        'descricao': 'Arcade'
        }
     ]
   });

@@ -160,6 +160,14 @@ export function adicionarLista() {
       {
         'titulo': 'Galaxy Force 2',
         'descricao': 'PlayStation 2'
+      },
+      {
+        'titulo': 'Genpei Toumaden',
+        'descricao': 'Arcade'
+      },
+      {
+        'titulo': 'Another World',
+        'descricao': 'Commodore 64'
       }
     ]
   });

@@ -2716,6 +2716,10 @@ export function adicionarLista() {
        {
         'titulo': 'Alien [CP Verlag]',
         'descricao': 'Commodore 64'
+       },
+       {
+        'titulo': 'Double Dragon II',
+        'descricao': 'Arcade'
        }
     ]
   });

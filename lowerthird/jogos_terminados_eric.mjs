@@ -2720,6 +2720,34 @@ export function adicionarLista() {
        {
         'titulo': 'Double Dragon II',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Asymmetry',
+        'descricao': 'ZX Spectrum'
+       },
+       {
+        'titulo': 'Death Sector',
+        'descricao': 'Commodore Plus 4'
+       },
+       {
+        'titulo': 'Fire And Brimstone',
+        'descricao': 'Amiga'
+       },
+       {
+        'titulo': 'TMNT Turtles In Time',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Cytron',
+        'descricao': 'Amiga'
+       },
+       {
+        'titulo': 'Robocop',
+        'descricao': 'Nintendo'
+       },
+       {
+        'titulo': 'Age Of Barbarian',
+        'descricao': 'PC'
        }
     ]
   });

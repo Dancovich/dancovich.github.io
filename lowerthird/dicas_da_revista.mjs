@@ -122,6 +122,18 @@ export function adicionarLista() {
       {
         'titulo': 'Pegue a bandagem na cesta de lixo.',
         'descricao': 'Super Game Power Nº 21'
+      },
+      {
+        'titulo': 'A diretoria dá as diretrizes a serem seguidas.',
+        'descricao': 'Super Game Power Nº 17'
+      },
+      {
+        'titulo': 'E fique ligado: quando você perde uma vida, perde também a arma que usava.',
+        'descricao': 'Ação Games Nº 21'
+      },
+      {
+        'titulo': 'Na tela título pressione X, Select, A, Select, Y, A, X, Select.',
+        'descricao': 'Nintendo World Nº 46'
       }
     ]
   });

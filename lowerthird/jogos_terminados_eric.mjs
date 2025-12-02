@@ -2748,6 +2748,10 @@ export function adicionarLista() {
        {
         'titulo': 'Age Of Barbarian',
         'descricao': 'PC'
+       },
+       {
+        'titulo': 'Axelay',
+        'descricao': 'PC'
        }
     ]
   });

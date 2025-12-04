@@ -2751,7 +2751,11 @@ export function adicionarLista() {
        },
        {
         'titulo': 'Axelay',
-        'descricao': 'PC'
+        'descricao': 'Super Nintendo'
+       },
+       {
+        'titulo': 'Alien Storm',
+        'descricao': 'Arcade'
        }
     ]
   });

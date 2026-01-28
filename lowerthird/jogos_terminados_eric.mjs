@@ -2756,6 +2756,26 @@ export function adicionarLista() {
        {
         'titulo': 'Alien Storm',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Burning Fight',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Mystic Riders',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Sunset Riders',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Terminator 2D No Fate',
+        'descricao': 'PlayStation 4'
+       },
+       {
+        'titulo': 'Shadow Of The Beast III',
+        'descricao': 'Amiga'
        }
     ]
   });

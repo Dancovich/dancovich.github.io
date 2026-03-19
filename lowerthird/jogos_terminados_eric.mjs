@@ -2776,6 +2776,14 @@ export function adicionarLista() {
        {
         'titulo': 'Shadow Of The Beast III',
         'descricao': 'Amiga'
+       },
+       {
+        'titulo': 'Kingdom Grandprix',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Burai Fighter',
+        'descricao': 'Nintendo'
        }
     ]
   });

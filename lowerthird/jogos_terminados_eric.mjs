@@ -2784,6 +2784,14 @@ export function adicionarLista() {
        {
         'titulo': 'Burai Fighter',
         'descricao': 'Nintendo'
+       },
+       {
+        'titulo': 'Xain\'D Sleena',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Black Castle II',
+        'descricao': 'Game Boy'
        }
     ]
   });

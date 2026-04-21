@@ -2792,6 +2792,22 @@ export function adicionarLista() {
        {
         'titulo': 'Black Castle II',
         'descricao': 'Game Boy'
+       },
+       {
+        'titulo': 'Moonwalker',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Donkey Kong',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Donkey Kong',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Vanguard',
+        'descricao': 'Atari 2600'
        }
     ]
   });

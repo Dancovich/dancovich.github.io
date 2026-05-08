@@ -2808,6 +2808,14 @@ export function adicionarLista() {
        {
         'titulo': 'Vanguard',
         'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Age of Barbarian Chronicles',
+        'descricao': 'PC'
+       },
+       {
+        'titulo': 'Xeno Genesis',
+        'descricao': 'Amiga'
        }
     ]
   });

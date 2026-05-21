@@ -2816,6 +2816,50 @@ export function adicionarLista() {
        {
         'titulo': 'Xeno Genesis',
         'descricao': 'Amiga'
+       },
+       {
+        'titulo': 'Beam Rider [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Seaquest [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Enduro [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Freeway [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Frostbite [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Grand Prix [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Megamania [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Plaque Attack [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Spider Fighter [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Tennis [Activision Patch]',
+        'descricao': 'Atari 2600'
+       },
+       {
+        'titulo': 'Aleesha\'s Tower',
+        'descricao': 'PC'
        }
     ]
   });

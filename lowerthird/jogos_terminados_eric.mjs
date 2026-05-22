@@ -2860,6 +2860,10 @@ export function adicionarLista() {
        {
         'titulo': 'Aleesha\'s Tower',
         'descricao': 'PC'
+       },
+       {
+        'titulo': 'Out Of This World',
+        'descricao': 'Super Nintendo'
        }
     ]
   });

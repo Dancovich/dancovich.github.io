@@ -2864,6 +2864,38 @@ export function adicionarLista() {
        {
         'titulo': 'Out Of This World',
         'descricao': 'Super Nintendo'
+       },
+       {
+        'titulo': 'Out Of This World',
+        'descricao': 'Sega CD'
+       },
+       {
+        'titulo': 'Out Of This World',
+        'descricao': 'Macintosh'
+       },
+       {
+        'titulo': 'Out Of This World',
+        'descricao': 'Atari ST'
+       },
+       {
+        'titulo': 'Out Of This World',
+        'descricao': 'Game Boy Advance'
+       },
+       {
+        'titulo': 'Out Of This World 15th Anniversary Edition',
+        'descricao': 'PC'
+       },
+       {
+        'titulo': 'Out Of This World 20th Anniversary Edition',
+        'descricao': 'PlayStation 3'
+       },
+       {
+        'titulo': 'Out Of This World',
+        'descricao': 'Amiga'
+       },
+       {
+        'titulo': 'Mazinger Z',
+        'descricao': 'Arcade'
        }
     ]
   });

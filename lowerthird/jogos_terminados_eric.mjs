@@ -2896,6 +2896,10 @@ export function adicionarLista() {
        {
         'titulo': 'Mazinger Z',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Whomp Em',
+        'descricao': 'Nintendo'
        }
     ]
   });

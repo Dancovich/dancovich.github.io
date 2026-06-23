@@ -2900,6 +2900,14 @@ export function adicionarLista() {
        {
         'titulo': 'Whomp Em',
         'descricao': 'Nintendo'
+       },
+       {
+        'titulo': 'Dungeons and Dragons - Tower of Doom',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Enduro Racer',
+        'descricao': 'Master System'
        }
     ]
   });

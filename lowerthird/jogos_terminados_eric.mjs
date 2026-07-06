@@ -2678,7 +2678,11 @@ export function adicionarLista() {
         'descricao': 'PC'
        },
        {
-        'titulo': 'Mercs [Arcade e Original]',
+        'titulo': 'Mercs [Arcade Mode]',
+        'descricao': 'Mega Drive'
+       },
+       {
+        'titulo': 'Mercs [Original Mode]',
         'descricao': 'Mega Drive'
        },
        {

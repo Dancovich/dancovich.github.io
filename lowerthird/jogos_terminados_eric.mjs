@@ -2912,6 +2912,10 @@ export function adicionarLista() {
        {
         'titulo': 'Enduro Racer',
         'descricao': 'Master System'
+       },
+       {
+        'titulo': 'Terra Cresta 3D',
+        'descricao': 'Saturn'
        }
     ]
   });

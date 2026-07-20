@@ -2916,6 +2916,10 @@ export function adicionarLista() {
        {
         'titulo': 'Terra Cresta 3D',
         'descricao': 'Saturn'
+       },
+       {
+        'titulo': 'Heavy Barrel',
+        'descricao': 'Arcade'
        }
     ]
   });

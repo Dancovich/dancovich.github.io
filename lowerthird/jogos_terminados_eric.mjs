@@ -2920,6 +2920,18 @@ export function adicionarLista() {
        {
         'titulo': 'Heavy Barrel',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Undercover Cops',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'The Guardian Legend',
+        'descricao': 'Nintendo'
+       },
+       {
+        'titulo': 'Truxton Extreme',
+        'descricao': 'PC'
        }
     ]
   });

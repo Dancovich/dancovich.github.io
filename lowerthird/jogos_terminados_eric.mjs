@@ -2932,6 +2932,10 @@ export function adicionarLista() {
        {
         'titulo': 'Truxton Extreme',
         'descricao': 'PC'
+       },
+       {
+        'titulo': 'Dungeons and Dragons - Shadow Over Mystara',
+        'descricao': 'Arcade'
        }
     ]
   });

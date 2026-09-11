@@ -2936,6 +2936,10 @@ export function adicionarLista() {
        {
         'titulo': 'Dungeons and Dragons - Shadow Over Mystara',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Ranger-X',
+        'descricao': 'Mega Drive'
        }
     ]
   });

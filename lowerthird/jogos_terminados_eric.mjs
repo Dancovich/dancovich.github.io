@@ -2940,6 +2940,10 @@ export function adicionarLista() {
        {
         'titulo': 'Ranger-X',
         'descricao': 'Mega Drive'
+       },
+       {
+        'titulo': 'Babylonian Twins',
+        'descricao': 'Amiga'
        }
     ]
   });

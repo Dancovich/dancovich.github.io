@@ -2944,6 +2944,10 @@ export function adicionarLista() {
        {
         'titulo': 'Babylonian Twins',
         'descricao': 'Amiga'
+      },
+       {
+        'titulo': 'Xardion',
+        'descricao': 'Super Nintendo'
        }
     ]
   });

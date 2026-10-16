@@ -2944,10 +2944,22 @@ export function adicionarLista() {
        {
         'titulo': 'Babylonian Twins',
         'descricao': 'Amiga'
-      },
+       },
        {
         'titulo': 'Xardion',
         'descricao': 'Super Nintendo'
+       },
+       {
+        'titulo': 'Enduro Racer [JP]',
+        'descricao': 'Master System'
+       },
+       {
+        'titulo': 'Captain Silver [JP]',
+        'descricao': 'Master System'
+       },
+       {
+        'titulo': 'Warlock - Der Ketzer',
+        'descricao': 'Commodore 64'
        }
     ]
   });

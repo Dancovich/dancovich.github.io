@@ -2960,6 +2960,10 @@ export function adicionarLista() {
        {
         'titulo': 'Warlock - Der Ketzer',
         'descricao': 'Commodore 64'
+       },
+       {
+        'titulo': 'Alltynex',
+        'descricao': 'FM Towns'
        }
     ]
   });

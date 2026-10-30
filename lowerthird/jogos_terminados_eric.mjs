@@ -2964,6 +2964,10 @@ export function adicionarLista() {
        {
         'titulo': 'Alltynex',
         'descricao': 'FM Towns'
+       },
+       {
+        'titulo': 'The Miracle Of Almana',
+        'descricao': 'Nintendo'
        }
     ]
   });

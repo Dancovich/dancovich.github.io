@@ -2968,6 +2968,14 @@ export function adicionarLista() {
        {
         'titulo': 'The Miracle Of Almana',
         'descricao': 'Nintendo'
+       },
+       {
+        'titulo': 'Guwange',
+        'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Two Crude',
+        'descricao': 'Arcade'
        }
     ]
   });

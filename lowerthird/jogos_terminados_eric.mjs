@@ -2976,6 +2976,10 @@ export function adicionarLista() {
        {
         'titulo': 'Two Crude',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Mamono Hunter Yoko',
+        'descricao': 'Mega Drive'
        }
     ]
   });

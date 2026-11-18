@@ -2992,6 +2992,10 @@ export function adicionarLista() {
        {
         'titulo': 'Cadash',
         'descricao': 'Arcade'
+       },
+       {
+        'titulo': 'Agellos 2',
+        'descricao': 'PC'
        }
     ]
   });

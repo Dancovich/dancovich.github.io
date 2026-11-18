@@ -2980,6 +2980,13 @@ export function adicionarLista() {
        {
         'titulo': 'Mamono Hunter Yoko',
         'descricao': 'Mega Drive'
+       },
+       {
+        'titulo': 'Valis III',
+        'descricao': 'Mega Drive'       },
+       {
+        'titulo': 'Valis The Fantasm Soldier',
+        'descricao': 'Mega Drive'
        }
     ]
   });

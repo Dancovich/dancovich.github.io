@@ -2983,10 +2983,15 @@ export function adicionarLista() {
        },
        {
         'titulo': 'Valis III',
-        'descricao': 'Mega Drive'       },
+        'descricao': 'Mega Drive'     
+       },
        {
         'titulo': 'Valis The Fantasm Soldier',
         'descricao': 'Mega Drive'
+       },
+       {
+        'titulo': 'Cadash',
+        'descricao': 'Arcade'
        }
     ]
   });
